@@ -73,5 +73,1606 @@
       "minecraft:use_item": 0
     }
   },
-  "Pokemon Stats": []
+  "Pokemon Stats": [
+    {
+      "species": "cobblemon:decidueye",
+      "level": 40,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:quirky",
+      "ability": "overgrow",
+      "heldItem": null,
+      "friendship": 92,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 11,
+        "attack": 19,
+        "defense": 30,
+        "specialAttack": 23,
+        "specialDefense": 3,
+        "speed": 12
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "specialAttack": 0,
+        "specialDefense": 2,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "suckerpunch",
+          "pp": 5,
+          "maxPp": null
+        },
+        {
+          "name": "nastyplot",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "pluck",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "synthesis",
+          "pp": 5,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:dragalge",
+      "level": 49,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:sassy",
+      "ability": "poisonpoint",
+      "heldItem": null,
+      "friendship": 49,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 30,
+        "attack": 9,
+        "defense": 18,
+        "specialAttack": 21,
+        "specialDefense": 26,
+        "speed": 19
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 3
+      },
+      "moves": [
+        {
+          "name": "aquatail",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "dragonpulse",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "toxic",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "waterpulse",
+          "pp": 20,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:eevee",
+      "level": 33,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:quiet",
+      "ability": "adaptability",
+      "heldItem": null,
+      "friendship": 73,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 11,
+        "attack": 5,
+        "defense": 24,
+        "specialAttack": 1,
+        "specialDefense": 21,
+        "speed": 4
+      },
+      "evs": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "copycat",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "bite",
+          "pp": 25,
+          "maxPp": null
+        },
+        {
+          "name": "refresh",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "babydolleyes",
+          "pp": 30,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:dewott",
+      "level": 26,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:relaxed",
+      "ability": "torrent",
+      "heldItem": null,
+      "friendship": 60,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 17,
+        "attack": 0,
+        "defense": 10,
+        "specialAttack": 7,
+        "specialDefense": 2,
+        "speed": 14
+      },
+      "evs": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 1
+      },
+      "moves": [
+        {
+          "name": "aerialace",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "waterpulse",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "furycutter",
+          "pp": 19,
+          "maxPp": null
+        },
+        {
+          "name": "razorshell",
+          "pp": 10,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:vibrava",
+      "level": 39,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:careful",
+      "ability": "levitate",
+      "heldItem": "cobblemon:exp_share",
+      "friendship": 117,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 16,
+        "attack": 23,
+        "defense": 7,
+        "specialAttack": 11,
+        "specialDefense": 4,
+        "speed": 6
+      },
+      "evs": {
+        "hp": 7,
+        "attack": 5,
+        "defense": 6,
+        "specialAttack": 7,
+        "specialDefense": 5,
+        "speed": 15
+      },
+      "moves": [
+        {
+          "name": "sandtomb",
+          "pp": 15,
+          "maxPp": null
+        },
+        {
+          "name": "mudslap",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "feintattack",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "dragonbreath",
+          "pp": 20,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:meowscarada",
+      "level": 46,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:sassy",
+      "ability": "overgrow",
+      "heldItem": null,
+      "friendship": 167,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 11,
+        "attack": 17,
+        "defense": 27,
+        "specialAttack": 31,
+        "specialDefense": 3,
+        "speed": 25
+      },
+      "evs": {
+        "hp": 23,
+        "attack": 13,
+        "defense": 3,
+        "specialAttack": 17,
+        "specialDefense": 5,
+        "speed": 38
+      },
+      "moves": [
+        {
+          "name": "nightslash",
+          "pp": 15,
+          "maxPp": null
+        },
+        {
+          "name": "uturn",
+          "pp": 18,
+          "maxPp": null
+        },
+        {
+          "name": "flowertrick",
+          "pp": 9,
+          "maxPp": null
+        },
+        {
+          "name": "energyball",
+          "pp": 8,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:pichu",
+      "level": 19,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:hardy",
+      "ability": "static",
+      "heldItem": null,
+      "friendship": 44,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 3,
+        "attack": 31,
+        "defense": 6,
+        "specialAttack": 15,
+        "specialDefense": 9,
+        "speed": 8
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "nastyplot",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "nuzzle",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "sweetkiss",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "playnice",
+          "pp": 20,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:bounsweet",
+      "level": 17,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:timid",
+      "ability": "leafguard",
+      "heldItem": null,
+      "friendship": 50,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 27,
+        "attack": 23,
+        "defense": 13,
+        "specialAttack": 5,
+        "specialDefense": 10,
+        "speed": 22
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "sweetscent",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "razorleaf",
+          "pp": 25,
+          "maxPp": null
+        },
+        {
+          "name": "rapidspin",
+          "pp": 40,
+          "maxPp": null
+        },
+        {
+          "name": "playnice",
+          "pp": 20,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:cafe_vulpix_alolan",
+      "level": 29,
+      "shiny": false,
+      "form": "alola",
+      "nature": "cobblemon:relaxed",
+      "ability": "snowcloak",
+      "heldItem": null,
+      "friendship": 51,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 4,
+        "attack": 30,
+        "defense": 13,
+        "specialAttack": 2,
+        "specialDefense": 27,
+        "speed": 29
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "extrasensory",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "hex",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "aurorabeam",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "feintattack",
+          "pp": 20,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:tatsugiri",
+      "level": 43,
+      "shiny": false,
+      "form": "droopy",
+      "nature": "cobblemon:rash",
+      "ability": "commander",
+      "heldItem": null,
+      "friendship": 50,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 1,
+        "attack": 26,
+        "defense": 0,
+        "specialAttack": 31,
+        "specialDefense": 24,
+        "speed": 4
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "nastyplot",
+          "pp": 19,
+          "maxPp": null
+        },
+        {
+          "name": "muddywater",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "memento",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "taunt",
+          "pp": 20,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:pidgeotto",
+      "level": 19,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:careful",
+      "ability": "tangledfeet",
+      "heldItem": null,
+      "friendship": 50,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 13,
+        "attack": 16,
+        "defense": 1,
+        "specialAttack": 21,
+        "specialDefense": 28,
+        "speed": 17
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "whirlwind",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "quickattack",
+          "pp": 30,
+          "maxPp": null
+        },
+        {
+          "name": "gust",
+          "pp": 35,
+          "maxPp": null
+        },
+        {
+          "name": "sandattack",
+          "pp": 15,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:wooper",
+      "level": 19,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:relaxed",
+      "ability": "damp",
+      "heldItem": null,
+      "friendship": 50,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 29,
+        "attack": 6,
+        "defense": 30,
+        "specialAttack": 19,
+        "specialDefense": 1,
+        "speed": 1
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "slam",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "haze",
+          "pp": 30,
+          "maxPp": null
+        },
+        {
+          "name": "mist",
+          "pp": 30,
+          "maxPp": null
+        },
+        {
+          "name": "mudshot",
+          "pp": 15,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:wooper",
+      "level": 19,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:docile",
+      "ability": "damp",
+      "heldItem": null,
+      "friendship": 50,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 15,
+        "attack": 9,
+        "defense": 17,
+        "specialAttack": 26,
+        "specialDefense": 30,
+        "speed": 25
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "slam",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "haze",
+          "pp": 30,
+          "maxPp": null
+        },
+        {
+          "name": "mist",
+          "pp": 30,
+          "maxPp": null
+        },
+        {
+          "name": "mudshot",
+          "pp": 15,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:quagsire",
+      "level": 39,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:lax",
+      "ability": "damp",
+      "heldItem": null,
+      "friendship": 37,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 9,
+        "attack": 9,
+        "defense": 2,
+        "specialAttack": 1,
+        "specialDefense": 29,
+        "speed": 5
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "muddywater",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "aquatail",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "yawn",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "slam",
+          "pp": 20,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:ponyta",
+      "level": 26,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:lonely",
+      "ability": "flashfire",
+      "heldItem": null,
+      "friendship": 50,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 27,
+        "attack": 26,
+        "defense": 21,
+        "specialAttack": 25,
+        "specialDefense": 2,
+        "speed": 26
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "flamewheel",
+          "pp": 25,
+          "maxPp": null
+        },
+        {
+          "name": "agility",
+          "pp": 30,
+          "maxPp": null
+        },
+        {
+          "name": "flamecharge",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "ember",
+          "pp": 25,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:zigzagoon",
+      "level": 18,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:mild",
+      "ability": "pickup",
+      "heldItem": null,
+      "friendship": 50,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 19,
+        "attack": 22,
+        "defense": 23,
+        "specialAttack": 17,
+        "specialDefense": 3,
+        "speed": 8
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 1
+      },
+      "moves": [
+        {
+          "name": "pinmissile",
+          "pp": 19,
+          "maxPp": null
+        },
+        {
+          "name": "babydolleyes",
+          "pp": 28,
+          "maxPp": null
+        },
+        {
+          "name": "headbutt",
+          "pp": 14,
+          "maxPp": null
+        },
+        {
+          "name": "covet",
+          "pp": 25,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:buizel",
+      "level": 28,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:relaxed",
+      "ability": "swiftswim",
+      "heldItem": null,
+      "friendship": 50,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 27,
+        "attack": 8,
+        "defense": 17,
+        "specialAttack": 0,
+        "specialDefense": 5,
+        "speed": 19
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "doublehit",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "aquajet",
+          "pp": 19,
+          "maxPp": null
+        },
+        {
+          "name": "swift",
+          "pp": 19,
+          "maxPp": null
+        },
+        {
+          "name": "pursuit",
+          "pp": 20,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:lopunny",
+      "level": 40,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:naive",
+      "ability": "cutecharm",
+      "heldItem": null,
+      "friendship": 140,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 15,
+        "attack": 11,
+        "defense": 31,
+        "specialAttack": 30,
+        "specialDefense": 10,
+        "speed": 26
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "entrainment",
+          "pp": 15,
+          "maxPp": null
+        },
+        {
+          "name": "agility",
+          "pp": 30,
+          "maxPp": null
+        },
+        {
+          "name": "headbutt",
+          "pp": 15,
+          "maxPp": null
+        },
+        {
+          "name": "batonpass",
+          "pp": 40,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:jolteon",
+      "level": 39,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:timid",
+      "ability": "voltabsorb",
+      "heldItem": null,
+      "friendship": 50,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 4,
+        "attack": 16,
+        "defense": 3,
+        "specialAttack": 17,
+        "specialDefense": 1,
+        "speed": 21
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "pinmissile",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "thunderfang",
+          "pp": 15,
+          "maxPp": null
+        },
+        {
+          "name": "doublekick",
+          "pp": 28,
+          "maxPp": null
+        },
+        {
+          "name": "thunderwave",
+          "pp": 19,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:drifblim",
+      "level": 43,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:hasty",
+      "ability": "aftermath",
+      "heldItem": null,
+      "friendship": 50,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 28,
+        "attack": 20,
+        "defense": 30,
+        "specialAttack": 21,
+        "specialDefense": 19,
+        "speed": 28
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "batonpass",
+          "pp": 40,
+          "maxPp": null
+        },
+        {
+          "name": "destinybond",
+          "pp": 3,
+          "maxPp": null
+        },
+        {
+          "name": "selfdestruct",
+          "pp": 5,
+          "maxPp": null
+        },
+        {
+          "name": "spitup",
+          "pp": 9,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:wiglett",
+      "level": 23,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:bold",
+      "ability": "rattled",
+      "heldItem": null,
+      "friendship": 50,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 12,
+        "attack": 30,
+        "defense": 13,
+        "specialAttack": 14,
+        "specialDefense": 2,
+        "speed": 20
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "waterpulse",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "slam",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "aquajet",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "wrap",
+          "pp": 20,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:accelgor",
+      "level": 48,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:timid",
+      "ability": "hydration",
+      "heldItem": null,
+      "friendship": 50,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 5,
+        "attack": 13,
+        "defense": 24,
+        "specialAttack": 29,
+        "specialDefense": 12,
+        "speed": 12
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 3
+      },
+      "moves": [
+        {
+          "name": "finalgambit",
+          "pp": 5,
+          "maxPp": null
+        },
+        {
+          "name": "bugbuzz",
+          "pp": 8,
+          "maxPp": null
+        },
+        {
+          "name": "recover",
+          "pp": 4,
+          "maxPp": null
+        },
+        {
+          "name": "uturn",
+          "pp": 19,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:lucario",
+      "level": 34,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:bold",
+      "ability": "steadfast",
+      "heldItem": null,
+      "friendship": 76,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 0,
+        "attack": 7,
+        "defense": 12,
+        "specialAttack": 21,
+        "specialDefense": 31,
+        "speed": 16
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 3,
+        "specialDefense": 0,
+        "speed": 13
+      },
+      "moves": [
+        {
+          "name": "aurasphere",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "reversal",
+          "pp": 15,
+          "maxPp": null
+        },
+        {
+          "name": "forcepalm",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "counter",
+          "pp": 20,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:ekans",
+      "level": 29,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:relaxed",
+      "ability": "shedskin",
+      "heldItem": null,
+      "friendship": 50,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 15,
+        "attack": 8,
+        "defense": 1,
+        "specialAttack": 1,
+        "specialDefense": 20,
+        "speed": 30
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "acidspray",
+          "pp": 19,
+          "maxPp": null
+        },
+        {
+          "name": "spitup",
+          "pp": 8,
+          "maxPp": null
+        },
+        {
+          "name": "swallow",
+          "pp": 8,
+          "maxPp": null
+        },
+        {
+          "name": "stockpile",
+          "pp": 19,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:slowpoke",
+      "level": 28,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:sassy",
+      "ability": "owntempo",
+      "heldItem": null,
+      "friendship": 50,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 23,
+        "attack": 6,
+        "defense": 5,
+        "specialAttack": 10,
+        "specialDefense": 26,
+        "speed": 7
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "amnesia",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "zenheadbutt",
+          "pp": 15,
+          "maxPp": null
+        },
+        {
+          "name": "headbutt",
+          "pp": 15,
+          "maxPp": null
+        },
+        {
+          "name": "waterpulse",
+          "pp": 20,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:kirlia",
+      "level": 26,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:bashful",
+      "ability": "synchronize",
+      "heldItem": null,
+      "friendship": 50,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 9,
+        "attack": 28,
+        "defense": 15,
+        "specialAttack": 24,
+        "specialDefense": 27,
+        "speed": 30
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "lifedew",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "psybeam",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "teleport",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "drainingkiss",
+          "pp": 10,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:eevee",
+      "level": 33,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:mild",
+      "ability": "runaway",
+      "heldItem": null,
+      "friendship": 35,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 14,
+        "attack": 7,
+        "defense": 28,
+        "specialAttack": 7,
+        "specialDefense": 7,
+        "speed": 9
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "copycat",
+          "pp": 16,
+          "maxPp": null
+        },
+        {
+          "name": "bite",
+          "pp": 24,
+          "maxPp": null
+        },
+        {
+          "name": "refresh",
+          "pp": 18,
+          "maxPp": null
+        },
+        {
+          "name": "babydolleyes",
+          "pp": 29,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:breloom",
+      "level": 25,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:docile",
+      "ability": "effectspore",
+      "heldItem": null,
+      "friendship": 56,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 7,
+        "attack": 24,
+        "defense": 25,
+        "specialAttack": 14,
+        "specialDefense": 3,
+        "speed": 8
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 1
+      },
+      "moves": [
+        {
+          "name": "skyuppercut",
+          "pp": 15,
+          "maxPp": null
+        },
+        {
+          "name": "headbutt",
+          "pp": 15,
+          "maxPp": null
+        },
+        {
+          "name": "megadrain",
+          "pp": 15,
+          "maxPp": null
+        },
+        {
+          "name": "leechseed",
+          "pp": 10,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:primarina",
+      "level": 34,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:hardy",
+      "ability": "torrent",
+      "heldItem": null,
+      "friendship": 92,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 27,
+        "attack": 28,
+        "defense": 20,
+        "specialAttack": 11,
+        "specialDefense": 9,
+        "speed": 16
+      },
+      "evs": {
+        "hp": 1,
+        "attack": 4,
+        "defense": 3,
+        "specialAttack": 4,
+        "specialDefense": 2,
+        "speed": 3
+      },
+      "moves": [
+        {
+          "name": "bubblebeam",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "sing",
+          "pp": 15,
+          "maxPp": null
+        },
+        {
+          "name": "icywind",
+          "pp": 15,
+          "maxPp": null
+        },
+        {
+          "name": "sparklingaria",
+          "pp": 10,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:plusle",
+      "level": 26,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:timid",
+      "ability": "plus",
+      "heldItem": null,
+      "friendship": 67,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 17,
+        "attack": 14,
+        "defense": 23,
+        "specialAttack": 24,
+        "specialDefense": 10,
+        "speed": 21
+      },
+      "evs": {
+        "hp": 4,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 2,
+        "speed": 2
+      },
+      "moves": [
+        {
+          "name": "electroball",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "swift",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "switcheroo",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "encore",
+          "pp": 5,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:mareep",
+      "level": 24,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:lonely",
+      "ability": "static",
+      "heldItem": null,
+      "friendship": 50,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 26,
+        "attack": 17,
+        "defense": 23,
+        "specialAttack": 20,
+        "specialDefense": 3,
+        "speed": 12
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "takedown",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "electroball",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "charge",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "cottonspore",
+          "pp": 40,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:pelipper",
+      "level": 27,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:sassy",
+      "ability": "drizzle",
+      "heldItem": null,
+      "friendship": 61,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 7,
+        "attack": 2,
+        "defense": 14,
+        "specialAttack": 18,
+        "specialDefense": 31,
+        "speed": 29
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "pursuit",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "waterpulse",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "wingattack",
+          "pp": 35,
+          "maxPp": null
+        },
+        {
+          "name": "supersonic",
+          "pp": 20,
+          "maxPp": null
+        }
+      ]
+    }
+  ]
 }
