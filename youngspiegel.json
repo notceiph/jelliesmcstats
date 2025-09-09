@@ -1,0 +1,428 @@
+{
+  "player": {
+    "uuid": "a8ef7547-fb82-4112-b289-0296d184875e",
+    "name": "youngspiegel"
+  },
+  "Vanilla Minecraft Stats": {
+    "Movement & Exploration Stats": {
+      "minecraft:walk_one_cm": {
+        "cm": 414803,
+        "m": 4148.0,
+        "km": 4.148
+      },
+      "minecraft:sprint_one_cm": {
+        "cm": 145675,
+        "m": 1456.8,
+        "km": 1.457
+      },
+      "minecraft:swim_one_cm": {
+        "cm": 0,
+        "m": 0.0,
+        "km": 0.0
+      },
+      "minecraft:fall_one_cm": {
+        "cm": 17284,
+        "m": 172.8,
+        "km": 0.173
+      }
+    },
+    "Combat & Survival Stats": {
+      "minecraft:mob_kills": 4,
+      "minecraft:player_kills": 0,
+      "minecraft:damage_dealt": 670,
+      "minecraft:damage_taken": 250,
+      "minecraft:deaths": 0
+    },
+    "Resource Gathering & Crafting": {
+      "minecraft:pickaxe_used": 0,
+      "minecraft:axe_used": 0,
+      "minecraft:shovel_used": 0,
+      "minecraft:hoe_used": 0
+    },
+    "Time & Activity Stats": {
+      "minecraft:play_time": {
+        "ticks": 136291,
+        "hours": 1.89
+      },
+      "minecraft:total_world_time": {
+        "ticks": 136291,
+        "hours": 1.89
+      },
+      "minecraft:sleep_in_bed": 12,
+      "minecraft:sneak_time": {
+        "ticks": 1456,
+        "hours": 0.02
+      },
+      "minecraft:time_since_death": {
+        "ticks": 136291,
+        "hours": 1.89
+      },
+      "minecraft:time_since_rest": {
+        "ticks": 236,
+        "hours": 0.0
+      }
+    },
+    "Item & Inventory Stats": {
+      "minecraft:pickaxe_used": 0,
+      "minecraft:shovel_used": 0,
+      "minecraft:axe_used": 0,
+      "minecraft:sword_used": 0,
+      "minecraft:fishing_rod_used": 0,
+      "minecraft:drop": 5,
+      "minecraft:pick_up": 0,
+      "minecraft:use_item": 0
+    }
+  },
+  "Pokemon Stats": [
+    {
+      "species": "cobblemon:pachirisu",
+      "level": 24,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:bold",
+      "ability": "pickup",
+      "heldItem": null,
+      "friendship": 52,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 20,
+        "attack": 28,
+        "defense": 15,
+        "specialAttack": 19,
+        "specialDefense": 10,
+        "speed": 6
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "spark",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "nuzzle",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "hyperfang",
+          "pp": 15,
+          "maxPp": null
+        },
+        {
+          "name": "quickattack",
+          "pp": 30,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:bounsweet",
+      "level": 17,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:quiet",
+      "ability": "oblivious",
+      "heldItem": null,
+      "friendship": 50,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 6,
+        "attack": 20,
+        "defense": 13,
+        "specialAttack": 2,
+        "specialDefense": 14,
+        "speed": 0
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "sweetscent",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "razorleaf",
+          "pp": 25,
+          "maxPp": null
+        },
+        {
+          "name": "rapidspin",
+          "pp": 40,
+          "maxPp": null
+        },
+        {
+          "name": "playnice",
+          "pp": 20,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:weepinbell",
+      "level": 23,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:brave",
+      "ability": "chlorophyll",
+      "heldItem": null,
+      "friendship": 55,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 10,
+        "attack": 25,
+        "defense": 12,
+        "specialAttack": 5,
+        "specialDefense": 5,
+        "speed": 21
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 1
+      },
+      "moves": [
+        {
+          "name": "vinewhip",
+          "pp": 25,
+          "maxPp": null
+        },
+        {
+          "name": "stunspore",
+          "pp": 30,
+          "maxPp": null
+        },
+        {
+          "name": "venoshock",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "poisonpowder",
+          "pp": 35,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:woobat",
+      "level": 28,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:calm",
+      "ability": "unaware",
+      "heldItem": null,
+      "friendship": 0,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 30,
+        "attack": 5,
+        "defense": 24,
+        "specialAttack": 9,
+        "specialDefense": 20,
+        "speed": 10
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "assurance",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "imprison",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "heartstamp",
+          "pp": 25,
+          "maxPp": null
+        },
+        {
+          "name": "endeavor",
+          "pp": 5,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:pidgeotto",
+      "level": 29,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:mild",
+      "ability": "tangledfeet",
+      "heldItem": null,
+      "friendship": 0,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 0,
+        "attack": 19,
+        "defense": 31,
+        "specialAttack": 0,
+        "specialDefense": 21,
+        "speed": 19
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "moves": [
+        {
+          "name": "gust",
+          "pp": 35,
+          "maxPp": null
+        },
+        {
+          "name": "twister",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "whirlwind",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "quickattack",
+          "pp": 30,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:charizard",
+      "level": 36,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:impish",
+      "ability": "blaze",
+      "heldItem": null,
+      "friendship": 51,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 9,
+        "attack": 8,
+        "defense": 16,
+        "specialAttack": 18,
+        "specialDefense": 5,
+        "speed": 29
+      },
+      "evs": {
+        "hp": 5,
+        "attack": 22,
+        "defense": 9,
+        "specialAttack": 7,
+        "specialDefense": 4,
+        "speed": 16
+      },
+      "moves": [
+        {
+          "name": "flamethrower",
+          "pp": 15,
+          "maxPp": null
+        },
+        {
+          "name": "heatwave",
+          "pp": 10,
+          "maxPp": null
+        },
+        {
+          "name": "airslash",
+          "pp": 15,
+          "maxPp": null
+        },
+        {
+          "name": "ember",
+          "pp": 25,
+          "maxPp": null
+        }
+      ]
+    },
+    {
+      "species": "cobblemon:vigoroth",
+      "level": 25,
+      "shiny": false,
+      "form": "normal",
+      "nature": "cobblemon:docile",
+      "ability": "vitalspirit",
+      "heldItem": null,
+      "friendship": 52,
+      "isEgg": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 5,
+        "attack": 15,
+        "defense": 23,
+        "specialAttack": 14,
+        "specialDefense": 22,
+        "speed": 3
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 1,
+        "specialDefense": 0,
+        "speed": 2
+      },
+      "moves": [
+        {
+          "name": "slash",
+          "pp": 20,
+          "maxPp": null
+        },
+        {
+          "name": "furyswipes",
+          "pp": 15,
+          "maxPp": null
+        },
+        {
+          "name": "slackoff",
+          "pp": 5,
+          "maxPp": null
+        },
+        {
+          "name": "yawn",
+          "pp": 10,
+          "maxPp": null
+        }
+      ]
+    }
+  ]
+}
