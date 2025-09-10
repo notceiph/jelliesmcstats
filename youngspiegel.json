@@ -7,6 +7,7 @@
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
         "cm": 414803,
+        "blocks": 4148.0,
         "m": 4148.0,
         "km": 4.148
       }

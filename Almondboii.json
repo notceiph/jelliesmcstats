@@ -6,15 +6,16 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "cm": 2591940,
-        "m": 25919.4,
-        "km": 25.919
+        "cm": 2594859,
+        "blocks": 25948.6,
+        "m": 25948.6,
+        "km": 25.949
       }
     },
     "Combat & Survival Stats": {
       "minecraft:mob_kills": 262,
       "minecraft:damage_dealt": 38529,
-      "minecraft:damage_taken": 10116,
+      "minecraft:damage_taken": 10127,
       "minecraft:deaths": 3,
       "minecraft:killed_by": "minecraft:zombie"
     },
@@ -27,12 +28,12 @@
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 1504721,
-        "hours": 20.9
+        "ticks": 1510721,
+        "hours": 20.98
       },
       "minecraft:time_since_death": {
-        "ticks": 804429,
-        "hours": 11.17
+        "ticks": 810429,
+        "hours": 11.26
       }
     },
     "Item & Inventory Stats": {
@@ -74,7 +75,7 @@
     },
     {
       "species": "cobblemon:gardevoir",
-      "level": 30,
+      "level": 31,
       "shiny": false,
       "hasNickname": false,
       "ivs": {

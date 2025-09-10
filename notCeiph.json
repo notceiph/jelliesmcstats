@@ -7,6 +7,7 @@
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
         "cm": 2408196,
+        "blocks": 24082.0,
         "m": 24082.0,
         "km": 24.082
       }
@@ -27,12 +28,12 @@
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 908154,
-        "hours": 12.61
+        "ticks": 914154,
+        "hours": 12.7
       },
       "minecraft:time_since_death": {
-        "ticks": 282425,
-        "hours": 3.92
+        "ticks": 288425,
+        "hours": 4.01
       }
     },
     "Item & Inventory Stats": {

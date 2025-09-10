@@ -6,39 +6,40 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "cm": 2354819,
-        "m": 23548.2,
-        "km": 23.548
+        "cm": 2396458,
+        "blocks": 23964.6,
+        "m": 23964.6,
+        "km": 23.965
       }
     },
     "Combat & Survival Stats": {
       "minecraft:mob_kills": 115,
       "minecraft:damage_dealt": 8162,
-      "minecraft:damage_taken": 6994,
+      "minecraft:damage_taken": 7123,
       "minecraft:deaths": 3,
       "minecraft:killed_by": "minecraft:zombie"
     },
     "Resource Gathering & Crafting": {
       "minecraft:diamonds_mined": 60,
       "minecraft:pickaxe_used": 1681,
-      "minecraft:axe_used": 724,
+      "minecraft:axe_used": 739,
       "minecraft:shovel_used": 943,
       "minecraft:hoe_used": 50
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 853601,
-        "hours": 11.86
+        "ticks": 859601,
+        "hours": 11.94
       },
       "minecraft:time_since_death": {
-        "ticks": 535440,
-        "hours": 7.44
+        "ticks": 541440,
+        "hours": 7.52
       }
     },
     "Item & Inventory Stats": {
       "minecraft:pickaxe_used_count": 1681,
       "minecraft:shovel_used_count": 943,
-      "minecraft:axe_used_count": 724,
+      "minecraft:axe_used_count": 739,
       "minecraft:sword_used": 175,
       "minecraft:fishing_rod_used": 0
     }
@@ -116,7 +117,7 @@
     },
     {
       "species": "cobblemon:decidueye",
-      "level": 36,
+      "level": 37,
       "shiny": false,
       "hasNickname": false,
       "ivs": {

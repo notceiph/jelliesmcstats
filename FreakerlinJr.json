@@ -6,9 +6,10 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "cm": 1398939,
-        "m": 13989.4,
-        "km": 13.989
+        "cm": 1421526,
+        "blocks": 14215.3,
+        "m": 14215.3,
+        "km": 14.215
       }
     },
     "Combat & Survival Stats": {
@@ -20,23 +21,23 @@
     },
     "Resource Gathering & Crafting": {
       "minecraft:diamonds_mined": 60,
-      "minecraft:pickaxe_used": 5170,
+      "minecraft:pickaxe_used": 5185,
       "minecraft:axe_used": 224,
       "minecraft:shovel_used": 705,
       "minecraft:hoe_used": 121
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 599979,
-        "hours": 8.33
+        "ticks": 605979,
+        "hours": 8.42
       },
       "minecraft:time_since_death": {
-        "ticks": 286606,
-        "hours": 3.98
+        "ticks": 292606,
+        "hours": 4.06
       }
     },
     "Item & Inventory Stats": {
-      "minecraft:pickaxe_used_count": 5170,
+      "minecraft:pickaxe_used_count": 5185,
       "minecraft:shovel_used_count": 705,
       "minecraft:axe_used_count": 224,
       "minecraft:sword_used": 11,
