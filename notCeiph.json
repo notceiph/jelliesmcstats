@@ -6,10 +6,7 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "cm": 2408196,
-        "blocks": 24082.0,
-        "m": 24082.0,
-        "km": 24.082
+        "blocks": 24082.0
       }
     },
     "Combat & Survival Stats": {

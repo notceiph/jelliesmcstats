@@ -6,10 +6,7 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "cm": 2594859,
-        "blocks": 25948.6,
-        "m": 25948.6,
-        "km": 25.949
+        "blocks": 25948.6
       }
     },
     "Combat & Survival Stats": {
@@ -75,7 +72,7 @@
     },
     {
       "species": "cobblemon:gardevoir",
-      "level": 31,
+      "level": 32,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -103,7 +100,7 @@
     },
     {
       "species": "cobblemon:blaziken",
-      "level": 45,
+      "level": 46,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
