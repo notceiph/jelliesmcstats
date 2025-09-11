@@ -6,13 +6,13 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 28107.3
+        "blocks": 34750.4
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 73,
-      "minecraft:damage_dealt": 915,
-      "minecraft:damage_taken": 6097,
+      "minecraft:mob_kills": 94,
+      "minecraft:damage_dealt": 934,
+      "minecraft:damage_taken": 7365,
       "minecraft:deaths": 9,
       "minecraft:killed_by": "minecraft:zombie"
     },
@@ -25,12 +25,12 @@
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 820507,
-        "hours": 11.4
+        "ticks": 1088147,
+        "hours": 15.11
       },
       "minecraft:time_since_death": {
-        "ticks": 64098,
-        "hours": 0.89
+        "ticks": 331738,
+        "hours": 4.61
       }
     },
     "Item & Inventory Stats": {
@@ -38,36 +38,36 @@
       "minecraft:shovel_used_count": 0,
       "minecraft:axe_used_count": 0,
       "minecraft:sword_used": 0,
-      "minecraft:fishing_rod_used": 0
+      "minecraft:fishing_rod_used": 6
     }
   },
   "Pokemon Stats": [
     {
-      "species": "cobblemon:decidueye",
-      "level": 40,
+      "species": "cobblemon:arcanine",
+      "level": 37,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 11,
-        "attack": 19,
-        "defense": 30,
-        "specialAttack": 23,
-        "specialDefense": 3,
-        "speed": 12
+        "hp": 13,
+        "attack": 14,
+        "defense": 17,
+        "specialAttack": 26,
+        "specialDefense": 26,
+        "speed": 23
       }
     },
     {
-      "species": "cobblemon:dragalge",
-      "level": 49,
+      "species": "cobblemon:dewott",
+      "level": 28,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 30,
-        "attack": 9,
-        "defense": 18,
-        "specialAttack": 21,
-        "specialDefense": 26,
-        "speed": 19
+        "hp": 17,
+        "attack": 0,
+        "defense": 10,
+        "specialAttack": 7,
+        "specialDefense": 2,
+        "speed": 14
       }
     },
     {
@@ -85,22 +85,22 @@
       }
     },
     {
-      "species": "cobblemon:dewott",
-      "level": 26,
+      "species": "cobblemon:decidueye",
+      "level": 43,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 17,
-        "attack": 0,
-        "defense": 10,
-        "specialAttack": 7,
-        "specialDefense": 2,
-        "speed": 14
+        "hp": 11,
+        "attack": 19,
+        "defense": 30,
+        "specialAttack": 23,
+        "specialDefense": 3,
+        "speed": 12
       }
     },
     {
       "species": "cobblemon:vibrava",
-      "level": 39,
+      "level": 43,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -114,7 +114,7 @@
     },
     {
       "species": "cobblemon:meowscarada",
-      "level": 46,
+      "level": 48,
       "shiny": false,
       "hasNickname": false,
       "ivs": {

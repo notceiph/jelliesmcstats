@@ -6,59 +6,73 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 4148.0
+        "blocks": 10464.3
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 4,
-      "minecraft:damage_dealt": 670,
-      "minecraft:damage_taken": 250,
+      "minecraft:mob_kills": 20,
+      "minecraft:damage_dealt": 2225,
+      "minecraft:damage_taken": 409,
       "minecraft:deaths": 0,
       "minecraft:killed_by": "None"
     },
     "Resource Gathering & Crafting": {
       "minecraft:diamonds_mined": 0,
-      "minecraft:pickaxe_used": 11,
-      "minecraft:axe_used": 0,
+      "minecraft:pickaxe_used": 18,
+      "minecraft:axe_used": 3,
       "minecraft:shovel_used": 0,
       "minecraft:hoe_used": 7
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 136291,
-        "hours": 1.89
+        "ticks": 375892,
+        "hours": 5.22
       },
       "minecraft:time_since_death": {
-        "ticks": 136291,
-        "hours": 1.89
+        "ticks": 375892,
+        "hours": 5.22
       }
     },
     "Item & Inventory Stats": {
-      "minecraft:pickaxe_used_count": 11,
+      "minecraft:pickaxe_used_count": 18,
       "minecraft:shovel_used_count": 0,
-      "minecraft:axe_used_count": 0,
-      "minecraft:sword_used": 4,
+      "minecraft:axe_used_count": 3,
+      "minecraft:sword_used": 22,
       "minecraft:fishing_rod_used": 0
     }
   },
   "Pokemon Stats": [
     {
-      "species": "cobblemon:pachirisu",
-      "level": 24,
+      "species": "cobblemon:emolga",
+      "level": 55,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 20,
-        "attack": 28,
-        "defense": 15,
-        "specialAttack": 19,
-        "specialDefense": 10,
-        "speed": 6
+        "hp": 7,
+        "attack": 10,
+        "defense": 17,
+        "specialAttack": 17,
+        "specialDefense": 30,
+        "speed": 11
       }
     },
     {
-      "species": "cobblemon:bounsweet",
-      "level": 17,
+      "species": "cobblemon:buneary",
+      "level": 49,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 24,
+        "attack": 9,
+        "defense": 4,
+        "specialAttack": 27,
+        "specialDefense": 20,
+        "speed": 5
+      }
+    },
+    {
+      "species": "cobblemon:tsareena",
+      "level": 57,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -71,50 +85,36 @@
       }
     },
     {
-      "species": "cobblemon:weepinbell",
-      "level": 23,
+      "species": "cobblemon:sneasel",
+      "level": 41,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 10,
-        "attack": 25,
-        "defense": 12,
-        "specialAttack": 5,
-        "specialDefense": 5,
-        "speed": 21
+        "hp": 25,
+        "attack": 2,
+        "defense": 13,
+        "specialAttack": 22,
+        "specialDefense": 7,
+        "speed": 28
       }
     },
     {
-      "species": "cobblemon:woobat",
-      "level": 28,
+      "species": "cobblemon:togepi",
+      "level": 60,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 30,
-        "attack": 5,
-        "defense": 24,
-        "specialAttack": 9,
-        "specialDefense": 20,
-        "speed": 10
-      }
-    },
-    {
-      "species": "cobblemon:pidgeotto",
-      "level": 29,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 0,
-        "attack": 19,
-        "defense": 31,
-        "specialAttack": 0,
-        "specialDefense": 21,
-        "speed": 19
+        "hp": 24,
+        "attack": 13,
+        "defense": 28,
+        "specialAttack": 23,
+        "specialDefense": 17,
+        "speed": 23
       }
     },
     {
       "species": "cobblemon:charizard",
-      "level": 36,
+      "level": 62,
       "shiny": false,
       "hasNickname": false,
       "ivs": {

@@ -6,38 +6,38 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 23964.6
+        "blocks": 38147.6
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 115,
-      "minecraft:damage_dealt": 8162,
-      "minecraft:damage_taken": 7123,
-      "minecraft:deaths": 3,
+      "minecraft:mob_kills": 174,
+      "minecraft:damage_dealt": 11591,
+      "minecraft:damage_taken": 9669,
+      "minecraft:deaths": 4,
       "minecraft:killed_by": "minecraft:zombie"
     },
     "Resource Gathering & Crafting": {
-      "minecraft:diamonds_mined": 60,
-      "minecraft:pickaxe_used": 1681,
-      "minecraft:axe_used": 739,
-      "minecraft:shovel_used": 943,
-      "minecraft:hoe_used": 50
+      "minecraft:diamonds_mined": 103,
+      "minecraft:pickaxe_used": 1933,
+      "minecraft:axe_used": 1358,
+      "minecraft:shovel_used": 1248,
+      "minecraft:hoe_used": 53
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 859601,
-        "hours": 11.94
+        "ticks": 1397712,
+        "hours": 19.41
       },
       "minecraft:time_since_death": {
-        "ticks": 541440,
-        "hours": 7.52
+        "ticks": 110795,
+        "hours": 1.54
       }
     },
     "Item & Inventory Stats": {
-      "minecraft:pickaxe_used_count": 1681,
-      "minecraft:shovel_used_count": 943,
-      "minecraft:axe_used_count": 739,
-      "minecraft:sword_used": 175,
+      "minecraft:pickaxe_used_count": 1933,
+      "minecraft:shovel_used_count": 1248,
+      "minecraft:axe_used_count": 1358,
+      "minecraft:sword_used": 285,
       "minecraft:fishing_rod_used": 0
     }
   },
@@ -57,17 +57,17 @@
       }
     },
     {
-      "species": "cobblemon:spiritomb",
-      "level": 33,
-      "shiny": false,
+      "species": "cobblemon:buneary",
+      "level": 35,
+      "shiny": true,
       "hasNickname": false,
       "ivs": {
-        "hp": 4,
-        "attack": 27,
-        "defense": 25,
-        "specialAttack": 3,
-        "specialDefense": 20,
-        "speed": 23
+        "hp": 18,
+        "attack": 18,
+        "defense": 11,
+        "specialAttack": 8,
+        "specialDefense": 11,
+        "speed": 20
       }
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "species": "cobblemon:annihilape",
-      "level": 38,
+      "level": 39,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -114,7 +114,7 @@
     },
     {
       "species": "cobblemon:decidueye",
-      "level": 37,
+      "level": 40,
       "shiny": false,
       "hasNickname": false,
       "ivs": {

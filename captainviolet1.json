@@ -1,0 +1,60 @@
+{
+  "player": {
+    "uuid": "af0d79b5-dc57-41a4-a6ac-c936150e997c",
+    "name": "captainviolet1"
+  },
+  "Vanilla Minecraft Stats": {
+    "Movement & Exploration Stats": {
+      "minecraft:walk_one_cm": {
+        "blocks": 10433.9
+      }
+    },
+    "Combat & Survival Stats": {
+      "minecraft:mob_kills": 27,
+      "minecraft:damage_dealt": 5509,
+      "minecraft:damage_taken": 3835,
+      "minecraft:deaths": 1,
+      "minecraft:killed_by": "minecraft:drowned"
+    },
+    "Resource Gathering & Crafting": {
+      "minecraft:diamonds_mined": 35,
+      "minecraft:pickaxe_used": 1082,
+      "minecraft:axe_used": 140,
+      "minecraft:shovel_used": 723,
+      "minecraft:hoe_used": 128
+    },
+    "Time & Activity Stats": {
+      "minecraft:play_time": {
+        "ticks": 430414,
+        "hours": 5.98
+      },
+      "minecraft:time_since_death": {
+        "ticks": 331176,
+        "hours": 4.6
+      }
+    },
+    "Item & Inventory Stats": {
+      "minecraft:pickaxe_used_count": 1082,
+      "minecraft:shovel_used_count": 723,
+      "minecraft:axe_used_count": 140,
+      "minecraft:sword_used": 49,
+      "minecraft:fishing_rod_used": 0
+    }
+  },
+  "Pokemon Stats": [
+    {
+      "species": "cobblemon:sprigatito",
+      "level": 10,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 0,
+        "attack": 30,
+        "defense": 5,
+        "specialAttack": 7,
+        "specialDefense": 20,
+        "speed": 9
+      }
+    }
+  ]
+}
