@@ -42,7 +42,7 @@
     }
   },
   "Pokemon Summary": {
-    "total_pokemon_owned": 6,
+    "total_pokemon_owned": 12,
     "shiny_pokemon_owned": 0,
     "legendary_pokemon_owned": 0
   },
@@ -128,6 +128,90 @@
         "defense": 16,
         "specialAttack": 18,
         "specialDefense": 5,
+        "speed": 29
+      }
+    },
+    {
+      "species": "cobblemon:pachirisu",
+      "level": 27,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 20,
+        "attack": 28,
+        "defense": 15,
+        "specialAttack": 19,
+        "specialDefense": 10,
+        "speed": 6
+      }
+    },
+    {
+      "species": "cobblemon:manectric",
+      "level": 30,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 28,
+        "attack": 28,
+        "defense": 31,
+        "specialAttack": 20,
+        "specialDefense": 13,
+        "speed": 21
+      }
+    },
+    {
+      "species": "cobblemon:weepinbell",
+      "level": 24,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 10,
+        "attack": 25,
+        "defense": 12,
+        "specialAttack": 5,
+        "specialDefense": 5,
+        "speed": 21
+      }
+    },
+    {
+      "species": "cobblemon:joltik",
+      "level": 29,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 18,
+        "attack": 3,
+        "defense": 30,
+        "specialAttack": 19,
+        "specialDefense": 12,
+        "speed": 0
+      }
+    },
+    {
+      "species": "cobblemon:machamp",
+      "level": 48,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 7,
+        "attack": 17,
+        "defense": 2,
+        "specialAttack": 31,
+        "specialDefense": 18,
+        "speed": 25
+      }
+    },
+    {
+      "species": "cobblemon:honchkrow",
+      "level": 51,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 14,
+        "attack": 6,
+        "defense": 2,
+        "specialAttack": 16,
+        "specialDefense": 28,
         "speed": 29
       }
     }
