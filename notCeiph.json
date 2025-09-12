@@ -6,45 +6,50 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 37555.3
+        "blocks": 40238.7
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 302,
-      "minecraft:damage_dealt": 37855,
-      "minecraft:damage_taken": 5563,
+      "minecraft:mob_kills": 325,
+      "minecraft:damage_dealt": 40399,
+      "minecraft:damage_taken": 6081,
       "minecraft:deaths": 4,
       "minecraft:killed_by": "minecraft:enderman"
     },
     "Resource Gathering & Crafting": {
       "minecraft:diamonds_mined": 31,
-      "minecraft:pickaxe_used": 500,
+      "minecraft:pickaxe_used": 564,
       "minecraft:axe_used": 88,
       "minecraft:shovel_used": 11,
       "minecraft:hoe_used": 0
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 1741897,
-        "hours": 24.19
+        "ticks": 2065086,
+        "days": 86.05
       },
       "minecraft:time_since_death": {
-        "ticks": 48689,
-        "hours": 0.68
+        "ticks": 371878,
+        "days": 15.49
       }
     },
     "Item & Inventory Stats": {
-      "minecraft:pickaxe_used_count": 500,
+      "minecraft:pickaxe_used_count": 564,
       "minecraft:shovel_used_count": 11,
       "minecraft:axe_used_count": 88,
-      "minecraft:sword_used": 738,
+      "minecraft:sword_used": 789,
       "minecraft:fishing_rod_used": 41
     }
+  },
+  "Pokemon Summary": {
+    "total_pokemon_owned": 6,
+    "shiny_pokemon_owned": 0,
+    "legendary_pokemon_owned": 0
   },
   "Pokemon Stats": [
     {
       "species": "cobblemon:tinkaton",
-      "level": 41,
+      "level": 43,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -71,8 +76,22 @@
       }
     },
     {
+      "species": "cobblemon:scizor",
+      "level": 53,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 26,
+        "specialAttack": 20,
+        "specialDefense": 1,
+        "speed": 20
+      }
+    },
+    {
       "species": "cobblemon:typhlosion",
-      "level": 48,
+      "level": 49,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -85,8 +104,22 @@
       }
     },
     {
+      "species": "cobblemon:togepi",
+      "level": 38,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 22,
+        "attack": 9,
+        "defense": 15,
+        "specialAttack": 13,
+        "specialDefense": 21,
+        "speed": 21
+      }
+    },
+    {
       "species": "cobblemon:lurantis",
-      "level": 46,
+      "level": 49,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -96,34 +129,6 @@
         "specialAttack": 22,
         "specialDefense": 17,
         "speed": 21
-      }
-    },
-    {
-      "species": "cobblemon:arcanine",
-      "level": 46,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 1,
-        "attack": 13,
-        "defense": 3,
-        "specialAttack": 7,
-        "specialDefense": 29,
-        "speed": 12
-      }
-    },
-    {
-      "species": "cobblemon:scizor",
-      "level": 51,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 31,
-        "attack": 31,
-        "defense": 26,
-        "specialAttack": 20,
-        "specialDefense": 1,
-        "speed": 20
       }
     }
   ]

@@ -1,0 +1,93 @@
+{
+  "player": {
+    "uuid": "d47bc568-c02a-40b0-8c08-8e62097646a6",
+    "name": "im_wynn"
+  },
+  "Vanilla Minecraft Stats": {
+    "Movement & Exploration Stats": {
+      "minecraft:walk_one_cm": {
+        "blocks": 2247.7
+      }
+    },
+    "Combat & Survival Stats": {
+      "minecraft:mob_kills": 8,
+      "minecraft:damage_dealt": 381,
+      "minecraft:damage_taken": 901,
+      "minecraft:deaths": 0,
+      "minecraft:killed_by": "None"
+    },
+    "Resource Gathering & Crafting": {
+      "minecraft:diamonds_mined": 0,
+      "minecraft:pickaxe_used": 0,
+      "minecraft:axe_used": 0,
+      "minecraft:shovel_used": 0,
+      "minecraft:hoe_used": 0
+    },
+    "Time & Activity Stats": {
+      "minecraft:play_time": {
+        "ticks": 76261,
+        "days": 3.18
+      },
+      "minecraft:time_since_death": {
+        "ticks": 76261,
+        "days": 3.18
+      }
+    },
+    "Item & Inventory Stats": {
+      "minecraft:pickaxe_used_count": 0,
+      "minecraft:shovel_used_count": 0,
+      "minecraft:axe_used_count": 0,
+      "minecraft:sword_used": 0,
+      "minecraft:fishing_rod_used": 0
+    }
+  },
+  "Pokemon Summary": {
+    "total_pokemon_owned": 3,
+    "shiny_pokemon_owned": 0,
+    "legendary_pokemon_owned": 0
+  },
+  "Pokemon Stats": [
+    {
+      "species": "cobblemon:linoone",
+      "level": 23,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 23,
+        "attack": 11,
+        "defense": 11,
+        "specialAttack": 10,
+        "specialDefense": 3,
+        "speed": 1
+      }
+    },
+    {
+      "species": "cobblemon:staravia",
+      "level": 21,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 1,
+        "attack": 10,
+        "defense": 9,
+        "specialAttack": 6,
+        "specialDefense": 29,
+        "speed": 20
+      }
+    },
+    {
+      "species": "cobblemon:quilava",
+      "level": 26,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 12,
+        "attack": 8,
+        "defense": 16,
+        "specialAttack": 9,
+        "specialDefense": 30,
+        "speed": 0
+      }
+    }
+  ]
+}

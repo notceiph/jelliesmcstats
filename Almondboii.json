@@ -6,40 +6,45 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 51141.1
+        "blocks": 55767.6
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 5130,
-      "minecraft:damage_dealt": 394756,
-      "minecraft:damage_taken": 22283,
+      "minecraft:mob_kills": 5157,
+      "minecraft:damage_dealt": 399195,
+      "minecraft:damage_taken": 23587,
       "minecraft:deaths": 14,
       "minecraft:killed_by": "minecraft:zombie"
     },
     "Resource Gathering & Crafting": {
-      "minecraft:diamonds_mined": 371,
+      "minecraft:diamonds_mined": 459,
       "minecraft:pickaxe_used": 5423,
-      "minecraft:axe_used": 337,
+      "minecraft:axe_used": 386,
       "minecraft:shovel_used": 1359,
       "minecraft:hoe_used": 240
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 3165268,
-        "hours": 43.96
+        "ticks": 3370200,
+        "days": 140.43
       },
       "minecraft:time_since_death": {
-        "ticks": 716234,
-        "hours": 9.95
+        "ticks": 921166,
+        "days": 38.38
       }
     },
     "Item & Inventory Stats": {
       "minecraft:pickaxe_used_count": 5423,
       "minecraft:shovel_used_count": 1359,
-      "minecraft:axe_used_count": 337,
+      "minecraft:axe_used_count": 386,
       "minecraft:sword_used": 6078,
       "minecraft:fishing_rod_used": 0
     }
+  },
+  "Pokemon Summary": {
+    "total_pokemon_owned": 6,
+    "shiny_pokemon_owned": 0,
+    "legendary_pokemon_owned": 0
   },
   "Pokemon Stats": [
     {
@@ -54,6 +59,20 @@
         "specialAttack": 26,
         "specialDefense": 25,
         "speed": 0
+      }
+    },
+    {
+      "species": "cobblemon:togekiss",
+      "level": 38,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 15,
+        "attack": 3,
+        "defense": 5,
+        "specialAttack": 12,
+        "specialDefense": 3,
+        "speed": 8
       }
     },
     {
@@ -72,7 +91,7 @@
     },
     {
       "species": "cobblemon:volcanion",
-      "level": 70,
+      "level": 71,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -86,7 +105,7 @@
     },
     {
       "species": "cobblemon:groudon",
-      "level": 55,
+      "level": 58,
       "shiny": false,
       "hasNickname": false,
       "ivs": {

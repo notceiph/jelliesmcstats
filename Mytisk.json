@@ -26,11 +26,11 @@
     "Time & Activity Stats": {
       "minecraft:play_time": {
         "ticks": 598430,
-        "hours": 8.31
+        "days": 24.93
       },
       "minecraft:time_since_death": {
         "ticks": 17468,
-        "hours": 0.24
+        "days": 0.73
       }
     },
     "Item & Inventory Stats": {
@@ -40,6 +40,11 @@
       "minecraft:sword_used": 140,
       "minecraft:fishing_rod_used": 0
     }
+  },
+  "Pokemon Summary": {
+    "total_pokemon_owned": 6,
+    "shiny_pokemon_owned": 0,
+    "legendary_pokemon_owned": 0
   },
   "Pokemon Stats": [
     {
