@@ -6,45 +6,45 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 35833.4
+        "blocks": 37555.3
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 285,
-      "minecraft:damage_dealt": 35228,
-      "minecraft:damage_taken": 5329,
+      "minecraft:mob_kills": 302,
+      "minecraft:damage_dealt": 37855,
+      "minecraft:damage_taken": 5563,
       "minecraft:deaths": 4,
       "minecraft:killed_by": "minecraft:enderman"
     },
     "Resource Gathering & Crafting": {
-      "minecraft:diamonds_mined": 18,
-      "minecraft:pickaxe_used": 438,
+      "minecraft:diamonds_mined": 31,
+      "minecraft:pickaxe_used": 500,
       "minecraft:axe_used": 88,
       "minecraft:shovel_used": 11,
       "minecraft:hoe_used": 0
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 1714302,
-        "hours": 23.81
+        "ticks": 1741897,
+        "hours": 24.19
       },
       "minecraft:time_since_death": {
-        "ticks": 21094,
-        "hours": 0.29
+        "ticks": 48689,
+        "hours": 0.68
       }
     },
     "Item & Inventory Stats": {
-      "minecraft:pickaxe_used_count": 438,
+      "minecraft:pickaxe_used_count": 500,
       "minecraft:shovel_used_count": 11,
       "minecraft:axe_used_count": 88,
-      "minecraft:sword_used": 695,
+      "minecraft:sword_used": 738,
       "minecraft:fishing_rod_used": 41
     }
   },
   "Pokemon Stats": [
     {
       "species": "cobblemon:tinkaton",
-      "level": 40,
+      "level": 41,
       "shiny": false,
       "hasNickname": false,
       "ivs": {

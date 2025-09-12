@@ -6,13 +6,13 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 50269.9
+        "blocks": 51141.1
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 5122,
-      "minecraft:damage_dealt": 393230,
-      "minecraft:damage_taken": 21785,
+      "minecraft:mob_kills": 5130,
+      "minecraft:damage_dealt": 394756,
+      "minecraft:damage_taken": 22283,
       "minecraft:deaths": 14,
       "minecraft:killed_by": "minecraft:zombie"
     },
@@ -25,12 +25,12 @@
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 3066794,
-        "hours": 42.59
+        "ticks": 3165268,
+        "hours": 43.96
       },
       "minecraft:time_since_death": {
-        "ticks": 617760,
-        "hours": 8.58
+        "ticks": 716234,
+        "hours": 9.95
       }
     },
     "Item & Inventory Stats": {
@@ -71,22 +71,22 @@
       }
     },
     {
-      "species": "cobblemon:lapras",
-      "level": 44,
+      "species": "cobblemon:volcanion",
+      "level": 70,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 6,
-        "attack": 17,
-        "defense": 4,
-        "specialAttack": 7,
-        "specialDefense": 4,
-        "speed": 11
+        "hp": 30,
+        "attack": 21,
+        "defense": 8,
+        "specialAttack": 18,
+        "specialDefense": 28,
+        "speed": 10
       }
     },
     {
       "species": "cobblemon:groudon",
-      "level": 50,
+      "level": 55,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -100,7 +100,7 @@
     },
     {
       "species": "cobblemon:marshadow",
-      "level": 72,
+      "level": 76,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
