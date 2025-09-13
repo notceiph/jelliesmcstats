@@ -6,43 +6,43 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 19310.9
+        "blocks": 22297.5
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 126,
-      "minecraft:damage_dealt": 9524,
-      "minecraft:damage_taken": 8105,
+      "minecraft:mob_kills": 145,
+      "minecraft:damage_dealt": 10804,
+      "minecraft:damage_taken": 9215,
       "minecraft:deaths": 6,
       "minecraft:killed_by": "cobblemon:pokemon"
     },
     "Resource Gathering & Crafting": {
       "minecraft:diamonds_mined": 24,
-      "minecraft:pickaxe_used": 1812,
-      "minecraft:axe_used": 424,
-      "minecraft:shovel_used": 494,
-      "minecraft:hoe_used": 0
+      "minecraft:pickaxe_used": 1832,
+      "minecraft:axe_used": 467,
+      "minecraft:shovel_used": 499,
+      "minecraft:hoe_used": 148
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 598430,
-        "days": 24.93
+        "ticks": 696840,
+        "days": 29.04
       },
       "minecraft:time_since_death": {
-        "ticks": 17468,
-        "days": 0.73
+        "ticks": 115878,
+        "days": 4.83
       }
     },
     "Item & Inventory Stats": {
-      "minecraft:pickaxe_used_count": 1812,
-      "minecraft:shovel_used_count": 494,
-      "minecraft:axe_used_count": 424,
-      "minecraft:sword_used": 140,
+      "minecraft:pickaxe_used_count": 1832,
+      "minecraft:shovel_used_count": 499,
+      "minecraft:axe_used_count": 467,
+      "minecraft:sword_used": 166,
       "minecraft:fishing_rod_used": 0
     }
   },
   "Pokemon Summary": {
-    "total_pokemon_owned": 25,
+    "total_pokemon_owned": 29,
     "shiny_pokemon_owned": 1,
     "legendary_pokemon_owned": 0
   },
@@ -286,6 +286,34 @@
       }
     },
     {
+      "species": "cobblemon:eevee",
+      "level": 27,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 10,
+        "attack": 2,
+        "defense": 13,
+        "specialAttack": 4,
+        "specialDefense": 11,
+        "speed": 29
+      }
+    },
+    {
+      "species": "cobblemon:miltank",
+      "level": 44,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 14,
+        "attack": 20,
+        "defense": 17,
+        "specialAttack": 0,
+        "specialDefense": 17,
+        "speed": 9
+      }
+    },
+    {
       "species": "cobblemon:bounsweet",
       "level": 17,
       "shiny": false,
@@ -297,6 +325,34 @@
         "specialAttack": 5,
         "specialDefense": 10,
         "speed": 22
+      }
+    },
+    {
+      "species": "cobblemon:honchkrow",
+      "level": 47,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 14,
+        "attack": 8,
+        "defense": 30,
+        "specialAttack": 22,
+        "specialDefense": 17,
+        "speed": 22
+      }
+    },
+    {
+      "species": "cobblemon:pidove",
+      "level": 20,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 1,
+        "attack": 5,
+        "defense": 22,
+        "specialAttack": 20,
+        "specialDefense": 3,
+        "speed": 12
       }
     },
     {

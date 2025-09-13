@@ -6,37 +6,37 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 21943.6
+        "blocks": 23208.6
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 116,
-      "minecraft:damage_dealt": 11503,
-      "minecraft:damage_taken": 9093,
+      "minecraft:mob_kills": 120,
+      "minecraft:damage_dealt": 11903,
+      "minecraft:damage_taken": 9453,
       "minecraft:deaths": 8,
       "minecraft:killed_by": "minecraft:player"
     },
     "Resource Gathering & Crafting": {
       "minecraft:diamonds_mined": 71,
-      "minecraft:pickaxe_used": 6539,
-      "minecraft:axe_used": 387,
-      "minecraft:shovel_used": 995,
-      "minecraft:hoe_used": 121
+      "minecraft:pickaxe_used": 6856,
+      "minecraft:axe_used": 407,
+      "minecraft:shovel_used": 1029,
+      "minecraft:hoe_used": 225
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 1127028,
-        "days": 46.96
+        "ticks": 1173169,
+        "days": 48.88
       },
       "minecraft:time_since_death": {
-        "ticks": 116052,
-        "days": 4.84
+        "ticks": 162193,
+        "days": 6.76
       }
     },
     "Item & Inventory Stats": {
-      "minecraft:pickaxe_used_count": 6539,
-      "minecraft:shovel_used_count": 995,
-      "minecraft:axe_used_count": 387,
+      "minecraft:pickaxe_used_count": 6856,
+      "minecraft:shovel_used_count": 1029,
+      "minecraft:axe_used_count": 407,
       "minecraft:sword_used": 11,
       "minecraft:fishing_rod_used": 0
     }
