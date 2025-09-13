@@ -6,50 +6,50 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 82775.4
+        "blocks": 88475.1
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 3281,
-      "minecraft:damage_dealt": 240130,
-      "minecraft:damage_taken": 38681,
+      "minecraft:mob_kills": 3405,
+      "minecraft:damage_dealt": 251140,
+      "minecraft:damage_taken": 40554,
       "minecraft:deaths": 10,
-      "minecraft:killed_by": "minecraft:piglin_brute"
+      "minecraft:killed_by": "minecraft:zombie"
     },
     "Resource Gathering & Crafting": {
-      "minecraft:diamonds_mined": 273,
-      "minecraft:pickaxe_used": 7007,
-      "minecraft:axe_used": 5512,
-      "minecraft:shovel_used": 3883,
-      "minecraft:hoe_used": 152
+      "minecraft:diamonds_mined": 307,
+      "minecraft:pickaxe_used": 7020,
+      "minecraft:axe_used": 5593,
+      "minecraft:shovel_used": 3921,
+      "minecraft:hoe_used": 154
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 4551729,
-        "days": 189.66
+        "ticks": 4818636,
+        "days": 200.78
       },
       "minecraft:time_since_death": {
-        "ticks": 463347,
-        "days": 19.31
+        "ticks": 730254,
+        "days": 30.43
       }
     },
     "Item & Inventory Stats": {
-      "minecraft:pickaxe_used_count": 7007,
-      "minecraft:shovel_used_count": 3883,
-      "minecraft:axe_used_count": 5512,
+      "minecraft:pickaxe_used_count": 7020,
+      "minecraft:shovel_used_count": 3921,
+      "minecraft:axe_used_count": 5593,
       "minecraft:sword_used": 1578,
       "minecraft:fishing_rod_used": 0
     }
   },
   "Pokemon Summary": {
-    "total_pokemon_owned": 126,
-    "shiny_pokemon_owned": 1,
-    "legendary_pokemon_owned": 11
+    "total_pokemon_owned": 158,
+    "shiny_pokemon_owned": 3,
+    "legendary_pokemon_owned": 13
   },
   "Pokemon Stats": [
     {
       "species": "cobblemon:enamorus",
-      "level": 86,
+      "level": 87,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -59,62 +59,6 @@
         "specialAttack": 22,
         "specialDefense": 6,
         "speed": 15
-      }
-    },
-    {
-      "species": "cobblemon:magearna",
-      "level": 65,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 6,
-        "attack": 26,
-        "defense": 0,
-        "specialAttack": 27,
-        "specialDefense": 23,
-        "speed": 26
-      }
-    },
-    {
-      "species": "cobblemon:keldeo",
-      "level": 83,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 15,
-        "attack": 25,
-        "defense": 25,
-        "specialAttack": 19,
-        "specialDefense": 22,
-        "speed": 12
-      }
-    },
-    {
-      "species": "cobblemon:jirachi",
-      "level": 84,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 17,
-        "attack": 30,
-        "defense": 22,
-        "specialAttack": 15,
-        "specialDefense": 14,
-        "speed": 7
-      }
-    },
-    {
-      "species": "cobblemon:goodra",
-      "level": 58,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 24,
-        "attack": 8,
-        "defense": 30,
-        "specialAttack": 4,
-        "specialDefense": 23,
-        "speed": 27
       }
     },
     {
@@ -129,6 +73,608 @@
         "specialAttack": 27,
         "specialDefense": 29,
         "speed": 1
+      }
+    },
+    {
+      "species": "cobblemon:keldeo",
+      "level": 85,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 15,
+        "attack": 25,
+        "defense": 25,
+        "specialAttack": 19,
+        "specialDefense": 22,
+        "speed": 12
+      }
+    },
+    {
+      "species": "cobblemon:jirachi",
+      "level": 85,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 17,
+        "attack": 30,
+        "defense": 22,
+        "specialAttack": 15,
+        "specialDefense": 14,
+        "speed": 7
+      }
+    },
+    {
+      "species": "cobblemon:goodra",
+      "level": 62,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 24,
+        "attack": 8,
+        "defense": 30,
+        "specialAttack": 4,
+        "specialDefense": 23,
+        "speed": 27
+      }
+    },
+    {
+      "species": "cobblemon:victini",
+      "level": 92,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 10,
+        "attack": 21,
+        "defense": 22,
+        "specialAttack": 29,
+        "specialDefense": 4,
+        "speed": 23
+      }
+    },
+    {
+      "species": "cobblemon:snom",
+      "level": 36,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 3,
+        "attack": 31,
+        "defense": 10,
+        "specialAttack": 21,
+        "specialDefense": 14,
+        "speed": 26
+      }
+    },
+    {
+      "species": "cobblemon:vanillite",
+      "level": 28,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 27,
+        "specialAttack": 6,
+        "specialDefense": 15,
+        "speed": 28
+      }
+    },
+    {
+      "species": "cobblemon:skarmory",
+      "level": 44,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 25,
+        "attack": 3,
+        "defense": 11,
+        "specialAttack": 7,
+        "specialDefense": 22,
+        "speed": 19
+      }
+    },
+    {
+      "species": "cobblemon:chimecho",
+      "level": 44,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 27,
+        "attack": 23,
+        "defense": 7,
+        "specialAttack": 9,
+        "specialDefense": 1,
+        "speed": 13
+      }
+    },
+    {
+      "species": "cobblemon:cetoddle",
+      "level": 26,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 31,
+        "attack": 23,
+        "defense": 17,
+        "specialAttack": 1,
+        "specialDefense": 5,
+        "speed": 20
+      }
+    },
+    {
+      "species": "cobblemon:starly",
+      "level": 25,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 21,
+        "attack": 9,
+        "defense": 27,
+        "specialAttack": 10,
+        "specialDefense": 1,
+        "speed": 27
+      }
+    },
+    {
+      "species": "cobblemon:natu",
+      "level": 26,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 18,
+        "attack": 18,
+        "defense": 9,
+        "specialAttack": 9,
+        "specialDefense": 17,
+        "speed": 2
+      }
+    },
+    {
+      "species": "cobblemon:scraggy",
+      "level": 28,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 8,
+        "attack": 15,
+        "defense": 17,
+        "specialAttack": 14,
+        "specialDefense": 26,
+        "speed": 7
+      }
+    },
+    {
+      "species": "cobblemon:xatu",
+      "level": 43,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 0,
+        "attack": 25,
+        "defense": 14,
+        "specialAttack": 26,
+        "specialDefense": 9,
+        "speed": 27
+      }
+    },
+    {
+      "species": "cobblemon:wyrdeer",
+      "level": 50,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 10,
+        "attack": 28,
+        "defense": 13,
+        "specialAttack": 0,
+        "specialDefense": 3,
+        "speed": 29
+      }
+    },
+    {
+      "species": "cobblemon:timburr",
+      "level": 26,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 4,
+        "attack": 14,
+        "defense": 3,
+        "specialAttack": 25,
+        "specialDefense": 12,
+        "speed": 26
+      }
+    },
+    {
+      "species": "cobblemon:sandshrew",
+      "level": 27,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 17,
+        "attack": 17,
+        "defense": 6,
+        "specialAttack": 14,
+        "specialDefense": 22,
+        "speed": 22
+      }
+    },
+    {
+      "species": "cobblemon:snom",
+      "level": 30,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 23,
+        "attack": 11,
+        "defense": 31,
+        "specialAttack": 23,
+        "specialDefense": 27,
+        "speed": 11
+      }
+    },
+    {
+      "species": "cobblemon:cacnea",
+      "level": 28,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 28,
+        "attack": 13,
+        "defense": 14,
+        "specialAttack": 22,
+        "specialDefense": 17,
+        "speed": 0
+      }
+    },
+    {
+      "species": "cobblemon:frosmoth",
+      "level": 35,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 26,
+        "attack": 8,
+        "defense": 3,
+        "specialAttack": 26,
+        "specialDefense": 27,
+        "speed": 29
+      }
+    },
+    {
+      "species": "cobblemon:swinub",
+      "level": 19,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 20,
+        "attack": 28,
+        "defense": 3,
+        "specialAttack": 12,
+        "specialDefense": 22,
+        "speed": 13
+      }
+    },
+    {
+      "species": "cobblemon:virizion",
+      "level": 70,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 7,
+        "attack": 30,
+        "defense": 12,
+        "specialAttack": 20,
+        "specialDefense": 30,
+        "speed": 19
+      }
+    },
+    {
+      "species": "cobblemon:xerneas",
+      "level": 50,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 3,
+        "attack": 11,
+        "defense": 28,
+        "specialAttack": 29,
+        "specialDefense": 10,
+        "speed": 16
+      }
+    },
+    {
+      "species": "cobblemon:rapidash",
+      "level": 81,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 18,
+        "attack": 12,
+        "defense": 4,
+        "specialAttack": 0,
+        "specialDefense": 11,
+        "speed": 4
+      }
+    },
+    {
+      "species": "cobblemon:glastrier",
+      "level": 70,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 27,
+        "attack": 1,
+        "defense": 18,
+        "specialAttack": 26,
+        "specialDefense": 18,
+        "speed": 10
+      }
+    },
+    {
+      "species": "cobblemon:cobalion",
+      "level": 70,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 29,
+        "attack": 6,
+        "defense": 2,
+        "specialAttack": 25,
+        "specialDefense": 27,
+        "speed": 14
+      }
+    },
+    {
+      "species": "cobblemon:primarina",
+      "level": 68,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 18,
+        "attack": 17,
+        "defense": 1,
+        "specialAttack": 26,
+        "specialDefense": 15,
+        "speed": 14
+      }
+    },
+    {
+      "species": "cobblemon:buzzwole",
+      "level": 77,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 31,
+        "attack": 11,
+        "defense": 26,
+        "specialAttack": 3,
+        "specialDefense": 13,
+        "speed": 27
+      }
+    },
+    {
+      "species": "cobblemon:miraidon",
+      "level": 82,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 17,
+        "attack": 18,
+        "defense": 13,
+        "specialAttack": 17,
+        "specialDefense": 16,
+        "speed": 13
+      }
+    },
+    {
+      "species": "cobblemon:hooh",
+      "level": 68,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 12,
+        "attack": 21,
+        "defense": 31,
+        "specialAttack": 29,
+        "specialDefense": 30,
+        "speed": 3
+      }
+    },
+    {
+      "species": "cobblemon:tapulele",
+      "level": 60,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 2,
+        "attack": 24,
+        "defense": 11,
+        "specialAttack": 19,
+        "specialDefense": 20,
+        "speed": 6
+      }
+    },
+    {
+      "species": "cobblemon:zygarde",
+      "level": 70,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 14,
+        "attack": 23,
+        "defense": 17,
+        "specialAttack": 30,
+        "specialDefense": 8,
+        "speed": 31
+      }
+    },
+    {
+      "species": "cobblemon:blacephalon",
+      "level": 50,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 30,
+        "attack": 23,
+        "defense": 25,
+        "specialAttack": 4,
+        "specialDefense": 19,
+        "speed": 2
+      }
+    },
+    {
+      "species": "cobblemon:swinub",
+      "level": 22,
+      "shiny": true,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 26,
+        "attack": 28,
+        "defense": 25,
+        "specialAttack": 2,
+        "specialDefense": 15,
+        "speed": 19
+      }
+    },
+    {
+      "species": "cobblemon:shiftry",
+      "level": 43,
+      "shiny": true,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 4,
+        "attack": 4,
+        "defense": 21,
+        "specialAttack": 10,
+        "specialDefense": 16,
+        "speed": 12
+      }
+    },
+    {
+      "species": "cobblemon:corviknight",
+      "level": 48,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 31,
+        "attack": 12,
+        "defense": 25,
+        "specialAttack": 18,
+        "specialDefense": 21,
+        "speed": 27
+      }
+    },
+    {
+      "species": "cobblemon:mewtwo",
+      "level": 71,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 17,
+        "attack": 22,
+        "defense": 20,
+        "specialAttack": 13,
+        "specialDefense": 29,
+        "speed": 15
+      }
+    },
+    {
+      "species": "cobblemon:magearna",
+      "level": 68,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 6,
+        "attack": 26,
+        "defense": 0,
+        "specialAttack": 27,
+        "specialDefense": 23,
+        "speed": 26
+      }
+    },
+    {
+      "species": "cobblemon:zacian",
+      "level": 70,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 20,
+        "attack": 21,
+        "defense": 2,
+        "specialAttack": 12,
+        "specialDefense": 19,
+        "speed": 27
+      }
+    },
+    {
+      "species": "cobblemon:hydreigon",
+      "level": 66,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 11,
+        "attack": 19,
+        "defense": 18,
+        "specialAttack": 20,
+        "specialDefense": 19,
+        "speed": 12
+      }
+    },
+    {
+      "species": "cobblemon:breloom",
+      "level": 63,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 3,
+        "attack": 24,
+        "defense": 7,
+        "specialAttack": 3,
+        "specialDefense": 24,
+        "speed": 8
+      }
+    },
+    {
+      "species": "cobblemon:reshiram",
+      "level": 69,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 24,
+        "attack": 28,
+        "defense": 25,
+        "specialAttack": 1,
+        "specialDefense": 1,
+        "speed": 19
+      }
+    },
+    {
+      "species": "cobblemon:rattata",
+      "level": 19,
+      "shiny": true,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 1,
+        "attack": 22,
+        "defense": 24,
+        "specialAttack": 15,
+        "specialDefense": 23,
+        "speed": 6
+      }
+    },
+    {
+      "species": "cobblemon:noivern",
+      "level": 55,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 25,
+        "attack": 30,
+        "defense": 30,
+        "specialAttack": 14,
+        "specialDefense": 4,
+        "speed": 23
       }
     },
     {
@@ -300,45 +846,17 @@
       }
     },
     {
-      "species": "cobblemon:hooh",
-      "level": 68,
+      "species": "cobblemon:jellicent",
+      "level": 48,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 12,
-        "attack": 21,
-        "defense": 31,
-        "specialAttack": 29,
-        "specialDefense": 30,
-        "speed": 3
-      }
-    },
-    {
-      "species": "cobblemon:goomy",
-      "level": 1,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 30,
-        "attack": 24,
-        "defense": 27,
-        "specialAttack": 11,
+        "hp": 26,
+        "attack": 15,
+        "defense": 28,
+        "specialAttack": 17,
         "specialDefense": 25,
-        "speed": 18
-      }
-    },
-    {
-      "species": "cobblemon:pineco",
-      "level": 22,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 1,
-        "attack": 16,
-        "defense": 25,
-        "specialAttack": 14,
-        "specialDefense": 25,
-        "speed": 8
+        "speed": 2
       }
     },
     {
@@ -356,31 +874,17 @@
       }
     },
     {
-      "species": "cobblemon:goomy",
-      "level": 1,
+      "species": "cobblemon:spinarak",
+      "level": 22,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 2,
-        "attack": 8,
-        "defense": 11,
-        "specialAttack": 4,
-        "specialDefense": 7,
-        "speed": 18
-      }
-    },
-    {
-      "species": "cobblemon:snorunt",
-      "level": 20,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 4,
-        "attack": 14,
-        "defense": 8,
-        "specialAttack": 5,
-        "specialDefense": 19,
-        "speed": 10
+        "hp": 29,
+        "attack": 20,
+        "defense": 28,
+        "specialAttack": 7,
+        "specialDefense": 9,
+        "speed": 1
       }
     },
     {
@@ -398,20 +902,6 @@
       }
     },
     {
-      "species": "cobblemon:swellow",
-      "level": 44,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 1,
-        "attack": 16,
-        "defense": 21,
-        "specialAttack": 23,
-        "specialDefense": 25,
-        "speed": 23
-      }
-    },
-    {
       "species": "cobblemon:mareep",
       "level": 27,
       "shiny": false,
@@ -423,20 +913,6 @@
         "specialAttack": 11,
         "specialDefense": 28,
         "speed": 6
-      }
-    },
-    {
-      "species": "cobblemon:smoliv",
-      "level": 20,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 12,
-        "attack": 23,
-        "defense": 3,
-        "specialAttack": 19,
-        "specialDefense": 9,
-        "speed": 23
       }
     },
     {
@@ -454,17 +930,17 @@
       }
     },
     {
-      "species": "cobblemon:xerneas",
-      "level": 50,
+      "species": "cobblemon:klink",
+      "level": 28,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 3,
-        "attack": 11,
-        "defense": 28,
-        "specialAttack": 29,
-        "specialDefense": 10,
-        "speed": 16
+        "hp": 26,
+        "attack": 10,
+        "defense": 31,
+        "specialAttack": 9,
+        "specialDefense": 18,
+        "speed": 8
       }
     },
     {
@@ -496,6 +972,20 @@
       }
     },
     {
+      "species": "cobblemon:remoraid",
+      "level": 24,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 19,
+        "attack": 26,
+        "defense": 26,
+        "specialAttack": 11,
+        "specialDefense": 26,
+        "speed": 4
+      }
+    },
+    {
       "species": "cobblemon:dedenne",
       "level": 22,
       "shiny": false,
@@ -510,17 +1000,45 @@
       }
     },
     {
-      "species": "cobblemon:corviknight",
-      "level": 48,
+      "species": "cobblemon:frillish",
+      "level": 34,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 31,
-        "attack": 12,
-        "defense": 25,
-        "specialAttack": 18,
-        "specialDefense": 21,
-        "speed": 27
+        "hp": 3,
+        "attack": 16,
+        "defense": 4,
+        "specialAttack": 13,
+        "specialDefense": 28,
+        "speed": 10
+      }
+    },
+    {
+      "species": "cobblemon:magikarp",
+      "level": 20,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 10,
+        "attack": 10,
+        "defense": 19,
+        "specialAttack": 19,
+        "specialDefense": 5,
+        "speed": 9
+      }
+    },
+    {
+      "species": "cobblemon:wattrel",
+      "level": 22,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 15,
+        "attack": 4,
+        "defense": 26,
+        "specialAttack": 12,
+        "specialDefense": 12,
+        "speed": 18
       }
     },
     {
@@ -538,17 +1056,129 @@
       }
     },
     {
-      "species": "cobblemon:virizion",
-      "level": 70,
+      "species": "cobblemon:diglett",
+      "level": 26,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 7,
+        "hp": 26,
         "attack": 30,
-        "defense": 12,
-        "specialAttack": 20,
-        "specialDefense": 30,
-        "speed": 19
+        "defense": 11,
+        "specialAttack": 14,
+        "specialDefense": 19,
+        "speed": 13
+      }
+    },
+    {
+      "species": "cobblemon:drilbur",
+      "level": 30,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 15,
+        "attack": 15,
+        "defense": 23,
+        "specialAttack": 10,
+        "specialDefense": 24,
+        "speed": 25
+      }
+    },
+    {
+      "species": "cobblemon:goomy",
+      "level": 1,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 30,
+        "attack": 24,
+        "defense": 27,
+        "specialAttack": 11,
+        "specialDefense": 25,
+        "speed": 18
+      }
+    },
+    {
+      "species": "cobblemon:pineco",
+      "level": 22,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 1,
+        "attack": 16,
+        "defense": 25,
+        "specialAttack": 14,
+        "specialDefense": 25,
+        "speed": 8
+      }
+    },
+    {
+      "species": "cobblemon:arrokuda",
+      "level": 21,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 14,
+        "attack": 8,
+        "defense": 2,
+        "specialAttack": 12,
+        "specialDefense": 1,
+        "speed": 7
+      }
+    },
+    {
+      "species": "cobblemon:goomy",
+      "level": 1,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 2,
+        "attack": 8,
+        "defense": 11,
+        "specialAttack": 4,
+        "specialDefense": 7,
+        "speed": 18
+      }
+    },
+    {
+      "species": "cobblemon:snorunt",
+      "level": 20,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 4,
+        "attack": 14,
+        "defense": 8,
+        "specialAttack": 5,
+        "specialDefense": 19,
+        "speed": 10
+      }
+    },
+    {
+      "species": "cobblemon:swellow",
+      "level": 44,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 1,
+        "attack": 16,
+        "defense": 21,
+        "specialAttack": 23,
+        "specialDefense": 25,
+        "speed": 23
+      }
+    },
+    {
+      "species": "cobblemon:smoliv",
+      "level": 20,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 12,
+        "attack": 23,
+        "defense": 3,
+        "specialAttack": 19,
+        "specialDefense": 9,
+        "speed": 23
       }
     },
     {
@@ -972,311 +1602,17 @@
       }
     },
     {
-      "species": "cobblemon:blacephalon",
-      "level": 50,
+      "species": "cobblemon:goomy",
+      "level": 1,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 30,
-        "attack": 23,
-        "defense": 25,
-        "specialAttack": 4,
-        "specialDefense": 19,
-        "speed": 2
-      }
-    },
-    {
-      "species": "cobblemon:reshiram",
-      "level": 69,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 24,
-        "attack": 28,
-        "defense": 25,
-        "specialAttack": 1,
-        "specialDefense": 1,
-        "speed": 19
-      }
-    },
-    {
-      "species": "cobblemon:toxicroak",
-      "level": 62,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 16,
-        "attack": 2,
-        "defense": 15,
-        "specialAttack": 7,
-        "specialDefense": 11,
-        "speed": 3
-      }
-    },
-    {
-      "species": "cobblemon:zorua",
-      "level": 26,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 23,
-        "attack": 15,
-        "defense": 11,
-        "specialAttack": 14,
-        "specialDefense": 27,
-        "speed": 16
-      }
-    },
-    {
-      "species": "cobblemon:miraidon",
-      "level": 82,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 17,
-        "attack": 18,
-        "defense": 13,
-        "specialAttack": 17,
-        "specialDefense": 16,
-        "speed": 13
-      }
-    },
-    {
-      "species": "cobblemon:arcanine",
-      "level": 52,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 31,
-        "attack": 28,
-        "defense": 9,
-        "specialAttack": 16,
-        "specialDefense": 27,
-        "speed": 18
-      }
-    },
-    {
-      "species": "cobblemon:altaria",
-      "level": 45,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 12,
-        "attack": 12,
-        "defense": 21,
-        "specialAttack": 9,
-        "specialDefense": 16,
-        "speed": 12
-      }
-    },
-    {
-      "species": "cobblemon:zygarde",
-      "level": 70,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 14,
-        "attack": 23,
-        "defense": 17,
-        "specialAttack": 30,
-        "specialDefense": 8,
-        "speed": 31
-      }
-    },
-    {
-      "species": "cobblemon:salandit",
-      "level": 29,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 13,
-        "attack": 9,
-        "defense": 23,
-        "specialAttack": 10,
-        "specialDefense": 3,
-        "speed": 13
-      }
-    },
-    {
-      "species": "cobblemon:ditto",
-      "level": 28,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 30,
-        "attack": 24,
-        "defense": 0,
-        "specialAttack": 8,
-        "specialDefense": 23,
-        "speed": 17
-      }
-    },
-    {
-      "species": "cobblemon:noivern",
-      "level": 55,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 25,
+        "hp": 9,
         "attack": 30,
         "defense": 30,
-        "specialAttack": 14,
-        "specialDefense": 4,
-        "speed": 23
-      }
-    },
-    {
-      "species": "cobblemon:toxel",
-      "level": 23,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 3,
-        "attack": 4,
-        "defense": 20,
-        "specialAttack": 13,
-        "specialDefense": 16,
-        "speed": 7
-      }
-    },
-    {
-      "species": "cobblemon:clobbopus",
-      "level": 28,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 1,
-        "attack": 31,
-        "defense": 14,
-        "specialAttack": 13,
-        "specialDefense": 16,
-        "speed": 31
-      }
-    },
-    {
-      "species": "cobblemon:zacian",
-      "level": 70,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 20,
-        "attack": 21,
-        "defense": 2,
-        "specialAttack": 12,
-        "specialDefense": 19,
-        "speed": 27
-      }
-    },
-    {
-      "species": "cobblemon:rapidash",
-      "level": 81,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 18,
-        "attack": 12,
-        "defense": 4,
-        "specialAttack": 0,
-        "specialDefense": 11,
-        "speed": 4
-      }
-    },
-    {
-      "species": "cobblemon:hydreigon",
-      "level": 66,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 11,
-        "attack": 19,
-        "defense": 18,
         "specialAttack": 20,
-        "specialDefense": 19,
-        "speed": 12
-      }
-    },
-    {
-      "species": "cobblemon:shiftry",
-      "level": 43,
-      "shiny": true,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 4,
-        "attack": 4,
-        "defense": 21,
-        "specialAttack": 10,
-        "specialDefense": 16,
-        "speed": 12
-      }
-    },
-    {
-      "species": "cobblemon:mewtwo",
-      "level": 71,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 17,
-        "attack": 22,
-        "defense": 20,
-        "specialAttack": 13,
-        "specialDefense": 29,
-        "speed": 15
-      }
-    },
-    {
-      "species": "cobblemon:primarina",
-      "level": 68,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 18,
-        "attack": 17,
-        "defense": 1,
-        "specialAttack": 26,
-        "specialDefense": 15,
-        "speed": 14
-      }
-    },
-    {
-      "species": "cobblemon:breloom",
-      "level": 63,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 3,
-        "attack": 24,
-        "defense": 7,
-        "specialAttack": 3,
-        "specialDefense": 24,
-        "speed": 8
-      }
-    },
-    {
-      "species": "cobblemon:bidoof",
-      "level": 23,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 30,
-        "attack": 7,
-        "defense": 11,
-        "specialAttack": 9,
-        "specialDefense": 9,
-        "speed": 18
-      }
-    },
-    {
-      "species": "cobblemon:croagunk",
-      "level": 36,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 4,
-        "attack": 22,
-        "defense": 2,
-        "specialAttack": 27,
-        "specialDefense": 31,
-        "speed": 5
+        "specialDefense": 1,
+        "speed": 30
       }
     },
     {
@@ -1308,31 +1644,31 @@
       }
     },
     {
-      "species": "cobblemon:buzzwole",
-      "level": 77,
+      "species": "cobblemon:solrock",
+      "level": 44,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 31,
-        "attack": 11,
-        "defense": 26,
-        "specialAttack": 3,
-        "specialDefense": 13,
-        "speed": 27
+        "hp": 24,
+        "attack": 19,
+        "defense": 12,
+        "specialAttack": 6,
+        "specialDefense": 3,
+        "speed": 2
       }
     },
     {
-      "species": "cobblemon:glastrier",
-      "level": 70,
+      "species": "cobblemon:toxicroak",
+      "level": 62,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 27,
-        "attack": 1,
-        "defense": 18,
-        "specialAttack": 26,
-        "specialDefense": 18,
-        "speed": 10
+        "hp": 16,
+        "attack": 2,
+        "defense": 15,
+        "specialAttack": 7,
+        "specialDefense": 11,
+        "speed": 3
       }
     },
     {
@@ -1350,20 +1686,6 @@
       }
     },
     {
-      "species": "cobblemon:goomy",
-      "level": 1,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 9,
-        "attack": 30,
-        "defense": 30,
-        "specialAttack": 20,
-        "specialDefense": 1,
-        "speed": 30
-      }
-    },
-    {
       "species": "cobblemon:beedrill",
       "level": 17,
       "shiny": false,
@@ -1378,17 +1700,143 @@
       }
     },
     {
-      "species": "cobblemon:solrock",
-      "level": 44,
+      "species": "cobblemon:arcanine",
+      "level": 52,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 24,
-        "attack": 19,
+        "hp": 31,
+        "attack": 28,
+        "defense": 9,
+        "specialAttack": 16,
+        "specialDefense": 27,
+        "speed": 18
+      }
+    },
+    {
+      "species": "cobblemon:aromatisse",
+      "level": 47,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 20,
+        "attack": 15,
         "defense": 12,
-        "specialAttack": 6,
+        "specialAttack": 13,
+        "specialDefense": 29,
+        "speed": 11
+      }
+    },
+    {
+      "species": "cobblemon:altaria",
+      "level": 45,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 12,
+        "attack": 12,
+        "defense": 21,
+        "specialAttack": 9,
+        "specialDefense": 16,
+        "speed": 12
+      }
+    },
+    {
+      "species": "cobblemon:zorua",
+      "level": 26,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 23,
+        "attack": 15,
+        "defense": 11,
+        "specialAttack": 14,
+        "specialDefense": 27,
+        "speed": 16
+      }
+    },
+    {
+      "species": "cobblemon:salandit",
+      "level": 29,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 13,
+        "attack": 9,
+        "defense": 23,
+        "specialAttack": 10,
         "specialDefense": 3,
-        "speed": 2
+        "speed": 13
+      }
+    },
+    {
+      "species": "cobblemon:ditto",
+      "level": 28,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 30,
+        "attack": 24,
+        "defense": 0,
+        "specialAttack": 8,
+        "specialDefense": 23,
+        "speed": 17
+      }
+    },
+    {
+      "species": "cobblemon:toxel",
+      "level": 23,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 3,
+        "attack": 4,
+        "defense": 20,
+        "specialAttack": 13,
+        "specialDefense": 16,
+        "speed": 7
+      }
+    },
+    {
+      "species": "cobblemon:clobbopus",
+      "level": 28,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 1,
+        "attack": 31,
+        "defense": 14,
+        "specialAttack": 13,
+        "specialDefense": 16,
+        "speed": 31
+      }
+    },
+    {
+      "species": "cobblemon:bidoof",
+      "level": 23,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 30,
+        "attack": 7,
+        "defense": 11,
+        "specialAttack": 9,
+        "specialDefense": 9,
+        "speed": 18
+      }
+    },
+    {
+      "species": "cobblemon:croagunk",
+      "level": 36,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 4,
+        "attack": 22,
+        "defense": 2,
+        "specialAttack": 27,
+        "specialDefense": 31,
+        "speed": 5
       }
     },
     {

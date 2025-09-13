@@ -6,73 +6,73 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 23208.6
+        "blocks": 27451.8
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 120,
-      "minecraft:damage_dealt": 11903,
-      "minecraft:damage_taken": 9453,
-      "minecraft:deaths": 8,
+      "minecraft:mob_kills": 240,
+      "minecraft:damage_dealt": 21039,
+      "minecraft:damage_taken": 14238,
+      "minecraft:deaths": 10,
       "minecraft:killed_by": "minecraft:player"
     },
     "Resource Gathering & Crafting": {
       "minecraft:diamonds_mined": 71,
-      "minecraft:pickaxe_used": 6856,
-      "minecraft:axe_used": 407,
+      "minecraft:pickaxe_used": 7096,
+      "minecraft:axe_used": 618,
       "minecraft:shovel_used": 1029,
-      "minecraft:hoe_used": 225
+      "minecraft:hoe_used": 227
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 1173169,
-        "days": 48.88
+        "ticks": 1401377,
+        "days": 58.39
       },
       "minecraft:time_since_death": {
-        "ticks": 162193,
-        "days": 6.76
+        "ticks": 20335,
+        "days": 0.85
       }
     },
     "Item & Inventory Stats": {
-      "minecraft:pickaxe_used_count": 6856,
+      "minecraft:pickaxe_used_count": 7096,
       "minecraft:shovel_used_count": 1029,
-      "minecraft:axe_used_count": 407,
+      "minecraft:axe_used_count": 618,
       "minecraft:sword_used": 11,
       "minecraft:fishing_rod_used": 0
     }
   },
   "Pokemon Summary": {
-    "total_pokemon_owned": 20,
+    "total_pokemon_owned": 22,
     "shiny_pokemon_owned": 0,
     "legendary_pokemon_owned": 0
   },
   "Pokemon Stats": [
     {
-      "species": "cobblemon:spritzee",
-      "level": 27,
+      "species": "cobblemon:wingull",
+      "level": 23,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 9,
+        "hp": 8,
         "attack": 25,
-        "defense": 11,
-        "specialAttack": 23,
-        "specialDefense": 12,
-        "speed": 15
+        "defense": 23,
+        "specialAttack": 8,
+        "specialDefense": 4,
+        "speed": 12
       }
     },
     {
-      "species": "cobblemon:ditto",
-      "level": 8,
+      "species": "cobblemon:petilil",
+      "level": 28,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 20,
-        "attack": 4,
-        "defense": 27,
-        "specialAttack": 17,
-        "specialDefense": 18,
-        "speed": 20
+        "hp": 27,
+        "attack": 23,
+        "defense": 23,
+        "specialAttack": 1,
+        "specialDefense": 14,
+        "speed": 10
       }
     },
     {
@@ -104,17 +104,17 @@
       }
     },
     {
-      "species": "cobblemon:dugtrio",
-      "level": 29,
+      "species": "cobblemon:zangoose",
+      "level": 43,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 16,
-        "attack": 0,
-        "defense": 27,
-        "specialAttack": 23,
-        "specialDefense": 0,
-        "speed": 26
+        "hp": 11,
+        "attack": 30,
+        "defense": 18,
+        "specialAttack": 1,
+        "specialDefense": 7,
+        "speed": 20
       }
     },
     {
@@ -174,17 +174,17 @@
       }
     },
     {
-      "species": "cobblemon:petilil",
-      "level": 28,
+      "species": "cobblemon:shiinotic",
+      "level": 29,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 27,
-        "attack": 23,
-        "defense": 23,
-        "specialAttack": 1,
-        "specialDefense": 14,
-        "speed": 10
+        "hp": 29,
+        "attack": 19,
+        "defense": 3,
+        "specialAttack": 20,
+        "specialDefense": 22,
+        "speed": 18
       }
     },
     {
@@ -230,6 +230,34 @@
       }
     },
     {
+      "species": "cobblemon:spritzee",
+      "level": 27,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 9,
+        "attack": 25,
+        "defense": 11,
+        "specialAttack": 23,
+        "specialDefense": 12,
+        "speed": 15
+      }
+    },
+    {
+      "species": "cobblemon:dugtrio",
+      "level": 29,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 16,
+        "attack": 0,
+        "defense": 27,
+        "specialAttack": 23,
+        "specialDefense": 0,
+        "speed": 26
+      }
+    },
+    {
       "species": "cobblemon:igglybuff",
       "level": 21,
       "shiny": false,
@@ -258,17 +286,17 @@
       }
     },
     {
-      "species": "cobblemon:shiinotic",
-      "level": 29,
+      "species": "cobblemon:ditto",
+      "level": 8,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 29,
-        "attack": 19,
-        "defense": 3,
-        "specialAttack": 20,
-        "specialDefense": 22,
-        "speed": 18
+        "hp": 20,
+        "attack": 4,
+        "defense": 27,
+        "specialAttack": 17,
+        "specialDefense": 18,
+        "speed": 20
       }
     },
     {
