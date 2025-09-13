@@ -6,13 +6,13 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 42959.3
+        "blocks": 43092.6
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 378,
-      "minecraft:damage_dealt": 41085,
-      "minecraft:damage_taken": 6538,
+      "minecraft:mob_kills": 385,
+      "minecraft:damage_dealt": 41570,
+      "minecraft:damage_taken": 6684,
       "minecraft:deaths": 4,
       "minecraft:killed_by": "minecraft:enderman"
     },
@@ -25,19 +25,19 @@
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 2322285,
-        "days": 96.76
+        "ticks": 2387455,
+        "days": 99.48
       },
       "minecraft:time_since_death": {
-        "ticks": 629077,
-        "days": 26.21
+        "ticks": 694247,
+        "days": 28.93
       }
     },
     "Item & Inventory Stats": {
       "minecraft:pickaxe_used_count": 566,
       "minecraft:shovel_used_count": 11,
       "minecraft:axe_used_count": 88,
-      "minecraft:sword_used": 800,
+      "minecraft:sword_used": 809,
       "minecraft:fishing_rod_used": 41
     }
   },
@@ -105,7 +105,7 @@
     },
     {
       "species": "cobblemon:togetic",
-      "level": 39,
+      "level": 41,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -119,7 +119,7 @@
     },
     {
       "species": "cobblemon:lurantis",
-      "level": 49,
+      "level": 50,
       "shiny": false,
       "hasNickname": false,
       "ivs": {

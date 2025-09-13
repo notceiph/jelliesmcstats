@@ -6,37 +6,37 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 70224.3
+        "blocks": 74724.0
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 8872,
-      "minecraft:damage_dealt": 669587,
-      "minecraft:damage_taken": 27647,
-      "minecraft:deaths": 15,
+      "minecraft:mob_kills": 9073,
+      "minecraft:damage_dealt": 681760,
+      "minecraft:damage_taken": 30084,
+      "minecraft:deaths": 16,
       "minecraft:killed_by": "minecraft:zombie"
     },
     "Resource Gathering & Crafting": {
-      "minecraft:diamonds_mined": 558,
+      "minecraft:diamonds_mined": 568,
       "minecraft:pickaxe_used": 5423,
-      "minecraft:axe_used": 432,
+      "minecraft:axe_used": 455,
       "minecraft:shovel_used": 1359,
       "minecraft:hoe_used": 240
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 3911816,
-        "days": 162.99
+        "ticks": 4104532,
+        "days": 171.02
       },
       "minecraft:time_since_death": {
-        "ticks": 241186,
-        "days": 10.05
+        "ticks": 23396,
+        "days": 0.97
       }
     },
     "Item & Inventory Stats": {
       "minecraft:pickaxe_used_count": 5423,
       "minecraft:shovel_used_count": 1359,
-      "minecraft:axe_used_count": 432,
+      "minecraft:axe_used_count": 455,
       "minecraft:sword_used": 6078,
       "minecraft:fishing_rod_used": 0
     }
@@ -59,20 +59,6 @@
         "specialAttack": 26,
         "specialDefense": 25,
         "speed": 0
-      }
-    },
-    {
-      "species": "cobblemon:electrike",
-      "level": 19,
-      "shiny": true,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 20,
-        "attack": 13,
-        "defense": 6,
-        "specialAttack": 30,
-        "specialDefense": 13,
-        "speed": 19
       }
     },
     {
@@ -353,6 +339,20 @@
         "specialAttack": 12,
         "specialDefense": 3,
         "speed": 8
+      }
+    },
+    {
+      "species": "cobblemon:starly",
+      "level": 21,
+      "shiny": true,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 20,
+        "attack": 14,
+        "defense": 25,
+        "specialAttack": 22,
+        "specialDefense": 26,
+        "speed": 12
       }
     },
     {
@@ -706,17 +706,17 @@
       }
     },
     {
-      "species": "cobblemon:starly",
-      "level": 21,
+      "species": "cobblemon:electrike",
+      "level": 19,
       "shiny": true,
       "hasNickname": false,
       "ivs": {
         "hp": 20,
-        "attack": 14,
-        "defense": 25,
-        "specialAttack": 22,
-        "specialDefense": 26,
-        "speed": 12
+        "attack": 13,
+        "defense": 6,
+        "specialAttack": 30,
+        "specialDefense": 13,
+        "speed": 19
       }
     },
     {
