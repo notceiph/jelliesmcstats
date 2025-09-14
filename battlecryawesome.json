@@ -1,0 +1,163 @@
+{
+  "player": {
+    "uuid": "cc66e3c9-027a-48a3-b43c-1f05f5546215",
+    "name": "battlecryawesome"
+  },
+  "Vanilla Minecraft Stats": {
+    "Movement & Exploration Stats": {
+      "minecraft:walk_one_cm": {
+        "blocks": 7584.5
+      }
+    },
+    "Combat & Survival Stats": {
+      "minecraft:mob_kills": 72,
+      "minecraft:damage_dealt": 11730,
+      "minecraft:damage_taken": 1974,
+      "minecraft:deaths": 6,
+      "minecraft:killed_by": "minecraft:zombie"
+    },
+    "Resource Gathering & Crafting": {
+      "minecraft:diamonds_mined": 33,
+      "minecraft:pickaxe_used": 1741,
+      "minecraft:axe_used": 34,
+      "minecraft:shovel_used": 102,
+      "minecraft:hoe_used": 0
+    },
+    "Time & Activity Stats": {
+      "minecraft:play_time": {
+        "ticks": 241411,
+        "days": 10.06
+      },
+      "minecraft:time_since_death": {
+        "ticks": 82890,
+        "days": 3.45
+      }
+    },
+    "Item & Inventory Stats": {
+      "minecraft:pickaxe_used_count": 1741,
+      "minecraft:shovel_used_count": 102,
+      "minecraft:axe_used_count": 34,
+      "minecraft:sword_used": 209,
+      "minecraft:fishing_rod_used": 0
+    }
+  },
+  "Pokemon Summary": {
+    "total_pokemon_owned": 8,
+    "shiny_pokemon_owned": 0,
+    "legendary_pokemon_owned": 0
+  },
+  "Pokemon Stats": [
+    {
+      "species": "cobblemon:grapploct",
+      "level": 30,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 30,
+        "attack": 14,
+        "defense": 0,
+        "specialAttack": 1,
+        "specialDefense": 2,
+        "speed": 27
+      }
+    },
+    {
+      "species": "cobblemon:darmanitan",
+      "level": 31,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 20,
+        "attack": 0,
+        "defense": 9,
+        "specialAttack": 29,
+        "specialDefense": 4,
+        "speed": 9
+      }
+    },
+    {
+      "species": "cobblemon:vikavolt",
+      "level": 23,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 29,
+        "attack": 3,
+        "defense": 21,
+        "specialAttack": 11,
+        "specialDefense": 31,
+        "speed": 28
+      }
+    },
+    {
+      "species": "cobblemon:whimsicott",
+      "level": 29,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 29,
+        "attack": 19,
+        "defense": 21,
+        "specialAttack": 22,
+        "specialDefense": 17,
+        "speed": 7
+      }
+    },
+    {
+      "species": "cobblemon:ninjask",
+      "level": 24,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 17,
+        "attack": 22,
+        "defense": 30,
+        "specialAttack": 18,
+        "specialDefense": 1,
+        "speed": 21
+      }
+    },
+    {
+      "species": "cobblemon:arboliva",
+      "level": 36,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 19,
+        "attack": 15,
+        "defense": 14,
+        "specialAttack": 0,
+        "specialDefense": 18,
+        "speed": 31
+      }
+    },
+    {
+      "species": "cobblemon:dartrix",
+      "level": 21,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 0,
+        "attack": 29,
+        "defense": 12,
+        "specialAttack": 15,
+        "specialDefense": 16,
+        "speed": 1
+      }
+    },
+    {
+      "species": "cobblemon:snover",
+      "level": 25,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 6,
+        "attack": 5,
+        "defense": 5,
+        "specialAttack": 19,
+        "specialDefense": 7,
+        "speed": 23
+      }
+    }
+  ]
+}

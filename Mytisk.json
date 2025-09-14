@@ -6,38 +6,38 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 28891.6
+        "blocks": 30127.0
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 383,
-      "minecraft:damage_dealt": 31579,
-      "minecraft:damage_taken": 14797,
+      "minecraft:mob_kills": 389,
+      "minecraft:damage_dealt": 32139,
+      "minecraft:damage_taken": 15019,
       "minecraft:deaths": 10,
       "minecraft:killed_by": "cobblemon:pokemon"
     },
     "Resource Gathering & Crafting": {
       "minecraft:diamonds_mined": 24,
-      "minecraft:pickaxe_used": 2091,
-      "minecraft:axe_used": 467,
-      "minecraft:shovel_used": 499,
+      "minecraft:pickaxe_used": 2116,
+      "minecraft:axe_used": 469,
+      "minecraft:shovel_used": 623,
       "minecraft:hoe_used": 169
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 931884,
-        "days": 38.83
+        "ticks": 956604,
+        "days": 39.86
       },
       "minecraft:time_since_death": {
-        "ticks": 30324,
-        "days": 1.26
+        "ticks": 55044,
+        "days": 2.29
       }
     },
     "Item & Inventory Stats": {
-      "minecraft:pickaxe_used_count": 2091,
-      "minecraft:shovel_used_count": 499,
-      "minecraft:axe_used_count": 467,
-      "minecraft:sword_used": 626,
+      "minecraft:pickaxe_used_count": 2116,
+      "minecraft:shovel_used_count": 623,
+      "minecraft:axe_used_count": 469,
+      "minecraft:sword_used": 635,
       "minecraft:fishing_rod_used": 0
     }
   },
@@ -48,17 +48,17 @@
   },
   "Pokemon Stats": [
     {
-      "species": "cobblemon:honchkrow",
-      "level": 47,
+      "species": "cobblemon:swellow",
+      "level": 22,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 14,
-        "attack": 8,
-        "defense": 30,
-        "specialAttack": 22,
-        "specialDefense": 17,
-        "speed": 22
+        "hp": 19,
+        "attack": 7,
+        "defense": 26,
+        "specialAttack": 9,
+        "specialDefense": 6,
+        "speed": 6
       }
     },
     {
@@ -171,20 +171,6 @@
         "specialAttack": 30,
         "specialDefense": 4,
         "speed": 21
-      }
-    },
-    {
-      "species": "cobblemon:swellow",
-      "level": 22,
-      "shiny": false,
-      "hasNickname": false,
-      "ivs": {
-        "hp": 19,
-        "attack": 7,
-        "defense": 26,
-        "specialAttack": 9,
-        "specialDefense": 6,
-        "speed": 6
       }
     },
     {
@@ -325,6 +311,20 @@
         "specialAttack": 17,
         "specialDefense": 31,
         "speed": 29
+      }
+    },
+    {
+      "species": "cobblemon:honchkrow",
+      "level": 47,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 14,
+        "attack": 8,
+        "defense": 30,
+        "specialAttack": 22,
+        "specialDefense": 17,
+        "speed": 22
       }
     },
     {

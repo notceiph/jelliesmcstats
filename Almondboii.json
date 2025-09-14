@@ -6,45 +6,45 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 74724.0
+        "blocks": 76065.2
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 9073,
-      "minecraft:damage_dealt": 681760,
-      "minecraft:damage_taken": 30084,
+      "minecraft:mob_kills": 9091,
+      "minecraft:damage_dealt": 684542,
+      "minecraft:damage_taken": 30491,
       "minecraft:deaths": 16,
       "minecraft:killed_by": "minecraft:zombie"
     },
     "Resource Gathering & Crafting": {
       "minecraft:diamonds_mined": 568,
       "minecraft:pickaxe_used": 5423,
-      "minecraft:axe_used": 455,
+      "minecraft:axe_used": 482,
       "minecraft:shovel_used": 1359,
       "minecraft:hoe_used": 240
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 4104532,
-        "days": 171.02
+        "ticks": 4281049,
+        "days": 178.38
       },
       "minecraft:time_since_death": {
-        "ticks": 23396,
-        "days": 0.97
+        "ticks": 199913,
+        "days": 8.33
       }
     },
     "Item & Inventory Stats": {
       "minecraft:pickaxe_used_count": 5423,
       "minecraft:shovel_used_count": 1359,
-      "minecraft:axe_used_count": 455,
+      "minecraft:axe_used_count": 482,
       "minecraft:sword_used": 6078,
       "minecraft:fishing_rod_used": 0
     }
   },
   "Pokemon Summary": {
-    "total_pokemon_owned": 62,
+    "total_pokemon_owned": 64,
     "shiny_pokemon_owned": 4,
-    "legendary_pokemon_owned": 6
+    "legendary_pokemon_owned": 7
   },
   "Pokemon Stats": [
     {
@@ -59,6 +59,20 @@
         "specialAttack": 26,
         "specialDefense": 25,
         "speed": 0
+      }
+    },
+    {
+      "species": "cobblemon:latios",
+      "level": 49,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 4,
+        "attack": 26,
+        "defense": 8,
+        "specialAttack": 10,
+        "specialDefense": 9,
+        "speed": 3
       }
     },
     {
@@ -91,7 +105,7 @@
     },
     {
       "species": "cobblemon:groudon",
-      "level": 61,
+      "level": 65,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -105,7 +119,7 @@
     },
     {
       "species": "cobblemon:marshadow",
-      "level": 77,
+      "level": 79,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -339,6 +353,20 @@
         "specialAttack": 12,
         "specialDefense": 3,
         "speed": 8
+      }
+    },
+    {
+      "species": "cobblemon:buzzwole",
+      "level": 74,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 12,
+        "attack": 28,
+        "defense": 8,
+        "specialAttack": 7,
+        "specialDefense": 16,
+        "speed": 20
       }
     },
     {
