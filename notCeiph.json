@@ -6,13 +6,13 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 45826.7
+        "blocks": 47098.2
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 410,
-      "minecraft:damage_dealt": 43445,
-      "minecraft:damage_taken": 7032,
+      "minecraft:mob_kills": 422,
+      "minecraft:damage_dealt": 44466,
+      "minecraft:damage_taken": 7302,
       "minecraft:deaths": 4,
       "minecraft:killed_by": "minecraft:enderman"
     },
@@ -25,24 +25,24 @@
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 2540371,
-        "days": 105.85
+        "ticks": 2573979,
+        "days": 107.25
       },
       "minecraft:time_since_death": {
-        "ticks": 847163,
-        "days": 35.3
+        "ticks": 880771,
+        "days": 36.7
       }
     },
     "Item & Inventory Stats": {
       "minecraft:pickaxe_used_count": 566,
       "minecraft:shovel_used_count": 11,
       "minecraft:axe_used_count": 88,
-      "minecraft:sword_used": 844,
+      "minecraft:sword_used": 863,
       "minecraft:fishing_rod_used": 41
     }
   },
   "Pokemon Summary": {
-    "total_pokemon_owned": 35,
+    "total_pokemon_owned": 36,
     "shiny_pokemon_owned": 0,
     "legendary_pokemon_owned": 1
   },
@@ -311,6 +311,20 @@
         "specialAttack": 14,
         "specialDefense": 15,
         "speed": 24
+      }
+    },
+    {
+      "species": "cobblemon:abra",
+      "level": 30,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 22,
+        "attack": 19,
+        "defense": 10,
+        "specialAttack": 5,
+        "specialDefense": 18,
+        "speed": 6
       }
     },
     {

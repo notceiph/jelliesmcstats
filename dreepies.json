@@ -6,50 +6,50 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 42720.7
+        "blocks": 49949.3
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 201,
-      "minecraft:damage_dealt": 14092,
-      "minecraft:damage_taken": 10659,
-      "minecraft:deaths": 4,
+      "minecraft:mob_kills": 244,
+      "minecraft:damage_dealt": 17690,
+      "minecraft:damage_taken": 13481,
+      "minecraft:deaths": 5,
       "minecraft:killed_by": "minecraft:zombie"
     },
     "Resource Gathering & Crafting": {
       "minecraft:diamonds_mined": 103,
-      "minecraft:pickaxe_used": 2163,
-      "minecraft:axe_used": 1417,
-      "minecraft:shovel_used": 1300,
+      "minecraft:pickaxe_used": 2402,
+      "minecraft:axe_used": 1519,
+      "minecraft:shovel_used": 1445,
       "minecraft:hoe_used": 53
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 1615641,
-        "days": 67.32
+        "ticks": 1966865,
+        "days": 81.95
       },
       "minecraft:time_since_death": {
-        "ticks": 328724,
-        "days": 13.7
+        "ticks": 240545,
+        "days": 10.02
       }
     },
     "Item & Inventory Stats": {
-      "minecraft:pickaxe_used_count": 2163,
-      "minecraft:shovel_used_count": 1300,
-      "minecraft:axe_used_count": 1417,
-      "minecraft:sword_used": 327,
+      "minecraft:pickaxe_used_count": 2402,
+      "minecraft:shovel_used_count": 1445,
+      "minecraft:axe_used_count": 1519,
+      "minecraft:sword_used": 393,
       "minecraft:fishing_rod_used": 0
     }
   },
   "Pokemon Summary": {
-    "total_pokemon_owned": 35,
+    "total_pokemon_owned": 44,
     "shiny_pokemon_owned": 1,
-    "legendary_pokemon_owned": 0
+    "legendary_pokemon_owned": 2
   },
   "Pokemon Stats": [
     {
       "species": "cobblemon:zoroark",
-      "level": 41,
+      "level": 51,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -63,7 +63,7 @@
     },
     {
       "species": "cobblemon:pidgeot",
-      "level": 43,
+      "level": 48,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -77,7 +77,7 @@
     },
     {
       "species": "cobblemon:decidueye",
-      "level": 46,
+      "level": 53,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -90,22 +90,22 @@
       }
     },
     {
-      "species": "cobblemon:annihilape",
-      "level": 43,
+      "species": "cobblemon:quaquaval",
+      "level": 44,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 19,
-        "attack": 12,
-        "defense": 1,
-        "specialAttack": 9,
-        "specialDefense": 8,
-        "speed": 16
+        "hp": 10,
+        "attack": 1,
+        "defense": 10,
+        "specialAttack": 2,
+        "specialDefense": 30,
+        "speed": 19
       }
     },
     {
-      "species": "cobblemon:combusken",
-      "level": 35,
+      "species": "cobblemon:blaziken",
+      "level": 45,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -118,8 +118,8 @@
       }
     },
     {
-      "species": "cobblemon:buneary",
-      "level": 41,
+      "species": "cobblemon:lopunny",
+      "level": 44,
       "shiny": true,
       "hasNickname": false,
       "ivs": {
@@ -129,6 +129,118 @@
         "specialAttack": 8,
         "specialDefense": 11,
         "speed": 20
+      }
+    },
+    {
+      "species": "cobblemon:gimmighoul",
+      "level": 29,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 8,
+        "attack": 5,
+        "defense": 27,
+        "specialAttack": 19,
+        "specialDefense": 0,
+        "speed": 5
+      }
+    },
+    {
+      "species": "cobblemon:cresselia",
+      "level": 55,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 15,
+        "attack": 30,
+        "defense": 15,
+        "specialAttack": 23,
+        "specialDefense": 1,
+        "speed": 13
+      }
+    },
+    {
+      "species": "cobblemon:burmy",
+      "level": 21,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 29,
+        "attack": 4,
+        "defense": 31,
+        "specialAttack": 31,
+        "specialDefense": 5,
+        "speed": 5
+      }
+    },
+    {
+      "species": "cobblemon:annihilape",
+      "level": 45,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 19,
+        "attack": 12,
+        "defense": 1,
+        "specialAttack": 9,
+        "specialDefense": 8,
+        "speed": 16
+      }
+    },
+    {
+      "species": "cobblemon:virizion",
+      "level": 70,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 6,
+        "attack": 12,
+        "defense": 3,
+        "specialAttack": 0,
+        "specialDefense": 1,
+        "speed": 16
+      }
+    },
+    {
+      "species": "cobblemon:finizen",
+      "level": 31,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 0,
+        "attack": 26,
+        "defense": 8,
+        "specialAttack": 18,
+        "specialDefense": 3,
+        "speed": 23
+      }
+    },
+    {
+      "species": "cobblemon:meltan",
+      "level": 35,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 4,
+        "attack": 27,
+        "defense": 19,
+        "specialAttack": 0,
+        "specialDefense": 13,
+        "speed": 29
+      }
+    },
+    {
+      "species": "cobblemon:skiddo",
+      "level": 20,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 14,
+        "attack": 8,
+        "defense": 22,
+        "specialAttack": 17,
+        "specialDefense": 22,
+        "speed": 4
       }
     },
     {
@@ -328,6 +440,20 @@
       }
     },
     {
+      "species": "cobblemon:cinderace",
+      "level": 42,
+      "shiny": false,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 5,
+        "attack": 25,
+        "defense": 19,
+        "specialAttack": 3,
+        "specialDefense": 24,
+        "speed": 18
+      }
+    },
+    {
       "species": "cobblemon:buneary",
       "level": 30,
       "shiny": false,
@@ -356,17 +482,17 @@
       }
     },
     {
-      "species": "cobblemon:quaxwell",
-      "level": 41,
+      "species": "cobblemon:staraptor",
+      "level": 47,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 10,
-        "attack": 1,
-        "defense": 10,
-        "specialAttack": 2,
-        "specialDefense": 30,
-        "speed": 19
+        "hp": 25,
+        "attack": 14,
+        "defense": 18,
+        "specialAttack": 10,
+        "specialDefense": 13,
+        "speed": 18
       }
     },
     {

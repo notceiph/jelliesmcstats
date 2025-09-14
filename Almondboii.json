@@ -6,45 +6,45 @@
   "Vanilla Minecraft Stats": {
     "Movement & Exploration Stats": {
       "minecraft:walk_one_cm": {
-        "blocks": 76065.2
+        "blocks": 80630.6
       }
     },
     "Combat & Survival Stats": {
-      "minecraft:mob_kills": 9091,
-      "minecraft:damage_dealt": 684542,
-      "minecraft:damage_taken": 30491,
+      "minecraft:mob_kills": 9504,
+      "minecraft:damage_dealt": 713421,
+      "minecraft:damage_taken": 30748,
       "minecraft:deaths": 16,
       "minecraft:killed_by": "minecraft:zombie"
     },
     "Resource Gathering & Crafting": {
       "minecraft:diamonds_mined": 568,
-      "minecraft:pickaxe_used": 5423,
-      "minecraft:axe_used": 482,
+      "minecraft:pickaxe_used": 5593,
+      "minecraft:axe_used": 494,
       "minecraft:shovel_used": 1359,
       "minecraft:hoe_used": 240
     },
     "Time & Activity Stats": {
       "minecraft:play_time": {
-        "ticks": 4281049,
-        "days": 178.38
+        "ticks": 4544799,
+        "days": 189.37
       },
       "minecraft:time_since_death": {
-        "ticks": 199913,
-        "days": 8.33
+        "ticks": 463663,
+        "days": 19.32
       }
     },
     "Item & Inventory Stats": {
-      "minecraft:pickaxe_used_count": 5423,
+      "minecraft:pickaxe_used_count": 5593,
       "minecraft:shovel_used_count": 1359,
-      "minecraft:axe_used_count": 482,
+      "minecraft:axe_used_count": 494,
       "minecraft:sword_used": 6078,
       "minecraft:fishing_rod_used": 0
     }
   },
   "Pokemon Summary": {
-    "total_pokemon_owned": 64,
-    "shiny_pokemon_owned": 4,
-    "legendary_pokemon_owned": 7
+    "total_pokemon_owned": 65,
+    "shiny_pokemon_owned": 5,
+    "legendary_pokemon_owned": 9
   },
   "Pokemon Stats": [
     {
@@ -62,17 +62,17 @@
       }
     },
     {
-      "species": "cobblemon:latios",
-      "level": 49,
+      "species": "cobblemon:lugia",
+      "level": 64,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 4,
-        "attack": 26,
-        "defense": 8,
-        "specialAttack": 10,
-        "specialDefense": 9,
-        "speed": 3
+        "hp": 17,
+        "attack": 15,
+        "defense": 20,
+        "specialAttack": 23,
+        "specialDefense": 16,
+        "speed": 20
       }
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "species": "cobblemon:groudon",
-      "level": 65,
+      "level": 69,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
@@ -300,17 +300,17 @@
       }
     },
     {
-      "species": "cobblemon:hatenna",
-      "level": 24,
+      "species": "cobblemon:zekrom",
+      "level": 68,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 0,
+        "hp": 18,
         "attack": 9,
-        "defense": 20,
-        "specialAttack": 16,
-        "specialDefense": 12,
-        "speed": 4
+        "defense": 15,
+        "specialAttack": 24,
+        "specialDefense": 29,
+        "speed": 1
       }
     },
     {
@@ -328,31 +328,45 @@
       }
     },
     {
-      "species": "cobblemon:greedent",
-      "level": 33,
+      "species": "cobblemon:latios",
+      "level": 49,
       "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 12,
-        "attack": 1,
-        "defense": 23,
-        "specialAttack": 15,
-        "specialDefense": 7,
-        "speed": 27
+        "hp": 4,
+        "attack": 26,
+        "defense": 8,
+        "specialAttack": 10,
+        "specialDefense": 9,
+        "speed": 3
       }
     },
     {
-      "species": "cobblemon:togekiss",
-      "level": 38,
-      "shiny": false,
+      "species": "cobblemon:starly",
+      "level": 21,
+      "shiny": true,
       "hasNickname": false,
       "ivs": {
-        "hp": 15,
-        "attack": 3,
-        "defense": 5,
-        "specialAttack": 12,
-        "specialDefense": 3,
-        "speed": 8
+        "hp": 20,
+        "attack": 14,
+        "defense": 25,
+        "specialAttack": 22,
+        "specialDefense": 26,
+        "speed": 12
+      }
+    },
+    {
+      "species": "cobblemon:greedent",
+      "level": 32,
+      "shiny": true,
+      "hasNickname": false,
+      "ivs": {
+        "hp": 12,
+        "attack": 6,
+        "defense": 3,
+        "specialAttack": 9,
+        "specialDefense": 14,
+        "speed": 4
       }
     },
     {
@@ -370,17 +384,17 @@
       }
     },
     {
-      "species": "cobblemon:starly",
-      "level": 21,
-      "shiny": true,
+      "species": "cobblemon:corviknight",
+      "level": 47,
+      "shiny": false,
       "hasNickname": false,
       "ivs": {
-        "hp": 20,
-        "attack": 14,
-        "defense": 25,
-        "specialAttack": 22,
-        "specialDefense": 26,
-        "speed": 12
+        "hp": 1,
+        "attack": 28,
+        "defense": 9,
+        "specialAttack": 15,
+        "specialDefense": 18,
+        "speed": 18
       }
     },
     {
